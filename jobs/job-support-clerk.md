@@ -1,6 +1,6 @@
 # Church Secretary
 
-**Department:** Administration  
+**Department:** Support  
 **Reports To:** Pastor and Minister of Administration  
 **FLSA Status:** Non-Exempt  
 **Employment Type:** Full-time  

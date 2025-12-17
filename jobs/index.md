@@ -1,7 +1,7 @@
 # Church Documents
 
-## Sections
-- [Job Descriptions](/jobs/).
+## Job Descriptions
+Here are our job descriptions.
 
 ### Ministerial
 - [Minister of Administration](/jobs/job-ministerial-admin.md)
