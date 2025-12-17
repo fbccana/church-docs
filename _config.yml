@@ -1,1 +1,5 @@
-
+theme: jekyll-theme-minimal
+# Or try others: jekyll-theme-merlot, jekyll-theme-cayman, jekyll-theme-architect, etc.
+# Full list: https://pages.github.com/themes/
+title: Church Docs
+description: Documentation for First Baptist Corsicana
