@@ -27,4 +27,4 @@ Here are our job descriptions.
 ## Program
 - 
 
-Or see [all jobs in the jobs folder](/jobs/).
+## [HOME](/)
