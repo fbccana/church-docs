@@ -1,15 +1,17 @@
 # Church Documents
 
 ## Sections
-- [Job Descriptions](/jobs).
+- [Job Descriptions](./jobs/).
+- [Church Policies](./policy/).
+- [Constitution & Bylaws](./bylaws/).
 
 ### Ministerial
-- [Minister of Administration](/jobs/job-ministerial-admin.md)
-- [Minister of Discipleship](/jobs/job-ministerial-discipleship.md)
-- [Minister of Worship](/jobs/job-ministerial-worship.md)
-- [Minister of Youth](/jobs/job-ministerial-youth.md)
-- [Minister of Children](/jobs/job-ministerial-children.md)
-- [Hispanic Pastor](/jobs/job-ministerial-hispanic.md)
+- [Minister of Administration](./jobs/job-ministerial-admin.md)
+- [Minister of Discipleship](./jobs/job-ministerial-discipleship.md)
+- [Minister of Worship](./jobs/job-ministerial-worship.md)
+- [Minister of Youth](./jobs/job-ministerial-youth.md)
+- [Minister of Children](./jobs/job-ministerial-children.md)
+- [Hispanic Pastor](./jobs/job-ministerial-hispanic.md)
 
 ### Support
 - [Church Clerk](/jobs/job-support-clerk.md)
@@ -29,4 +31,4 @@
 ### Program
 - 
 
-Or see [all jobs in the jobs folder](/jobs).
+Or see [all jobs in the jobs folder](./jobs/).
