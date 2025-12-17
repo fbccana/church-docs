@@ -1,7 +1,7 @@
 # Church Documents
 
 ## Sections
-- [Job Descriptions](/jobs/).
+- [Job Descriptions](/jobs).
 
 ### Ministerial
 - [Minister of Administration](/jobs/job-ministerial-admin.md)
@@ -29,4 +29,4 @@
 ### Program
 - 
 
-Or see [all jobs in the jobs folder](/jobs/).
+Or see [all jobs in the jobs folder](/jobs).
