@@ -7,8 +7,8 @@
 // Custom overrides for clearer readability
 $page-bg: #121212;          // Slightly lighter than pure black for less strain
 $section-bg: #1e1e1e;       // Card-like sections
-$text-color: #e0e0e0;       // Light gray for main text
-$heading-color: #ffffff;    // Pure white for headings
+$text-color: #1a1a1a;       // Light gray for main text
+$heading-color: #363636;    // Pure white for headings
 $link-color: #bb86fc;       // Soft purple for links (easy on eyes)
 $accent-color: #03dac6;     // Teal accent if needed
 
@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #ffffff;
+  color: #585858;
   background-color: rgba(187, 134, 252, 0.2);
 }
 
