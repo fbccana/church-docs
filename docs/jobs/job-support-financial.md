@@ -1,10 +1,14 @@
-# Financial Secretary
+---
+title: Financial Secretary
+---
 
-**Department:** Support  
-**Reports To:** Minister of Administration  
-**FLSA Status:** Non-Exempt  
-**Employment Type:** Full-time  
-**Date:** December 17, 2025
+|                |                        |
+| -------------- | ---------------------- |
+| **Department** | Support                |
+| **Reports To** | Minister of Administration |
+| **FLSA Status**| Non-Exempt             |
+| **Employment** | Full-time              |
+| **Date**       | December 17, 2025      |
 
 ## Position Summary
 
@@ -115,9 +119,8 @@ Annual salary and benefits package as determined by Personnel Committee and appr
 - Bonding Requirement: Position requires fidelity bonding through church insurance policy
 - At-will employment relationship
 
-## Reasonable Accommodations
-
-First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
+!!! info "Reasonable Accommodations"
+    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
 
 ## Ethical and Legal Requirements
 

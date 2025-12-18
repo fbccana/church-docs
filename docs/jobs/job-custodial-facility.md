@@ -1,10 +1,14 @@
-# Facilities Manager
+---
+title: Facilities Manager
+---
 
-**Department:** Custodial  
-**Reports To:** Minister of Administration  
-**FLSA Status:** Non-Exempt  
-**Employment Type:** Full-time  
-**Date:** December 17, 2025
+|                |                        |
+| -------------- | ---------------------- |
+| **Department** | Custodial              |
+| **Reports To** | Minister of Administration |
+| **FLSA Status**| Non-Exempt             |
+| **Employment** | Full-time              |
+| **Date**       | December 17, 2025      |
 
 ## Position Summary
 
@@ -87,8 +91,7 @@ Hourly wage and benefits package as determined by Personnel Committee and approv
 - Compliance with church policies and procedures required
 - At-will employment relationship
 
-## Reasonable Accommodations
-
-First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
+!!! info "Reasonable Accommodations"
+    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
 
 *First Baptist Church of Corsicana*

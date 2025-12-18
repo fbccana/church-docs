@@ -1,10 +1,14 @@
-# Substitute Receptionist
+---
+title: Substitute Receptionist
+---
 
-**Department:** Support  
-**Reports To:** Minister of Administration  
-**FLSA Status:** Non-Exempt  
-**Employment Type:** Temporary/As-Needed  
-**Date:** December 17, 2025
+|                |                        |
+| -------------- | ---------------------- |
+| **Department** | Support                |
+| **Reports To** | Minister of Administration |
+| **FLSA Status**| Non-Exempt             |
+| **Employment** | Temporary/As-Needed    |
+| **Date**       | December 17, 2025      |
 
 ## Position Summary
 
@@ -76,7 +80,7 @@ Hourly wage for actual hours worked as determined by Personnel Committee and app
 - Regular attendance at staff meetings as requested
 - At-will employment relationship
 
-## Reasonable Accommodations
-First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
+!!! info "Reasonable Accommodations"
+    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
 
 *First Baptist Church of Corsicana*

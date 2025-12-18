@@ -1,10 +1,14 @@
-# Custodian - Children/Nursery
+---
+title: Custodian - Children/Nursery
+---
 
-**Department:** Custodial  
-**Reports To:** Minister of Administration  
-**FLSA Status:** Non-Exempt  
-**Employment Type:** Part-time  
-**Date:** December 17, 2025
+|                |                        |
+| -------------- | ---------------------- |
+| **Department** | Custodial              |
+| **Reports To** | Minister of Administration |
+| **FLSA Status**| Non-Exempt             |
+| **Employment** | Part-time              |
+| **Date**       | December 17, 2025      |
 
 ## Position Summary
 
@@ -71,7 +75,7 @@ Hourly wage as determined by Personnel Committee and approved in annual church b
 - Compliance with church policies and child protection procedures required
 - At-will employment relationship
 
-## Reasonable Accommodations
-First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
+!!! info "Reasonable Accommodations"
+    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
 
 *First Baptist Church of Corsicana*

@@ -1,10 +1,14 @@
-# Worship Secretary
+---
+title: Worship Secretary
+---
 
-**Department:** Support
-**Reports To:** Pastor and Minister of Music  
-**FLSA Status:** Non-Exempt  
-**Employment Type:** Part-time  
-**Date:** December 17, 2025
+|                |                             |
+| -------------- | --------------------------- |
+| **Department** | Support                     |
+| **Reports To** | Pastor and Minister of Music|
+| **FLSA Status**| Non-Exempt                  |
+| **Employment** | Part-time                   |
+| **Date**       | December 17, 2025           |
 
 ## Position Summary
 
@@ -96,8 +100,7 @@ Hourly wage and benefits eligibility as determined by Personnel Committee and ap
 - Regular attendance at staff meetings as requested
 - At-will employment relationship
 
-## Reasonable Accommodations
-
-First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
+!!! info "Reasonable Accommodations"
+    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
 
 *First Baptist Church of Corsicana*

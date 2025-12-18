@@ -1,10 +1,14 @@
-# Church Secretary
+---
+title: Church Secretary
+---
 
-**Department:** Support  
-**Reports To:** Pastor and Minister of Administration  
-**FLSA Status:** Non-Exempt  
-**Employment Type:** Full-time  
-**Date:** December 2025
+|                |                                    |
+| -------------- | ---------------------------------- |
+| **Department** | Support                            |
+| **Reports To** | Pastor and Minister of Administration |
+| **FLSA Status**| Non-Exempt                         |
+| **Employment** | Full-time                          |
+| **Date**       | December 2025                      |
 
 ## Position Summary
 
@@ -110,8 +114,7 @@ Position salary and benefits package as determined by Personnel Committee and ap
 - Regular attendance at staff meetings as requested
 - At-will employment relationship
 
-## Reasonable Accommodations
-
-First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
+!!! info "Reasonable Accommodations"
+    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
 
 *First Baptist Church of Corsicana*
