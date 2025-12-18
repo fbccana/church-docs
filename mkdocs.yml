@@ -1,0 +1,18 @@
+site_name: Church Governance Documents
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: blue grey
+      accent: amber
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - footnotes
+  - tables
+
+nav:
+  - Home: index.md
