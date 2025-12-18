@@ -13,6 +13,7 @@ Provides comprehensive administrative and logistical support for the church's mu
 ## Essential Functions and Responsibilities
 
 ### Music Ministry Support (60% of time)
+
 - Prepare and organize music folders for Sanctuary Choir and orchestra with weekly repertoire
 - Maintain comprehensive music library including inventory, cataloging, and filing systems
 - Coordinate music preparation for Wednesday rehearsals and Sunday worship services
@@ -22,6 +23,7 @@ Provides comprehensive administrative and logistical support for the church's mu
 - Maintain and organize choir robes, stoles, and choir room cleanliness
 
 ### Worship Service Coordination (25% of time)
+
 - Coordinate with Minister of Music on special worship services (Christmas Eve, Easter, etc.)
 - Manage flower schedule and contact donors for weekly sanctuary arrangements
 - Collaborate with Lord's Supper and Baptism ministry teams for service preparation
@@ -30,6 +32,7 @@ Provides comprehensive administrative and logistical support for the church's mu
 - Order musical products and supplies as requested by Minister of Music
 
 ### Reception and Administrative Support (15% of time)
+
 - Serve as primary phone receptionist during assigned hours
 - Assist walk-in visitors with information, copies, and general inquiries
 - Provide secretarial support to ministerial staff during busy periods
@@ -40,6 +43,7 @@ Provides comprehensive administrative and logistical support for the church's mu
 ## Qualifications
 
 ### Required
+
 - High school diploma or equivalent
 - Demonstrates personal salvation through faith in Jesus Christ with mature Christian testimony
 - Basic music reading ability and understanding of choral/instrumental arrangements
@@ -49,6 +53,7 @@ Provides comprehensive administrative and logistical support for the church's mu
 - Ability to work independently and manage multiple priorities
 
 ### Preferred
+
 - Music education or performance background
 - Church music ministry experience
 - Experience with music library management systems
@@ -56,6 +61,7 @@ Provides comprehensive administrative and logistical support for the church's mu
 - Familiarity with sound/recording equipment operation
 
 ## Physical Requirements and Working Conditions
+
 - Ability to lift and move music stands, chairs, and equipment up to 30 pounds
 - Extended periods of standing and walking in choir/orchestra areas
 - Manual dexterity for organizing music folders and operating equipment
@@ -63,6 +69,7 @@ Provides comprehensive administrative and logistical support for the church's mu
 - Occasional weekend work for special worship events and programs
 
 ## Performance Expectations
+
 - Prepare all music folders accurately and completely by designated rehearsal times
 - Maintain 100% accuracy in choir attendance reporting
 - Respond to phone calls and visitor requests promptly and professionally
@@ -71,14 +78,17 @@ Provides comprehensive administrative and logistical support for the church's mu
 - Maintain organized, accessible music library systems
 
 ## Reporting Relationships
+
 **Direct Reports:** None  
 **Key Internal Relationships:** Minister of Music, Pastor, other administrative staff, choir members, orchestra members, ministry team leaders  
 **External Relationships:** Music suppliers, equipment vendors, church members requesting recordings
 
 ## Compensation and Benefits
+
 Hourly wage and benefits eligibility as determined by Personnel Committee and approved in annual church budget.
 
 ## Employment Conditions
+
 - Position continues until terminated by mutual agreement or by request of Pastor or Personnel Committee
 - Two weeks' notice required for resignation unless otherwise mutually agreed
 - Work schedule and hours as agreed upon with Minister of Music and Personnel Committee
@@ -87,6 +97,7 @@ Hourly wage and benefits eligibility as determined by Personnel Committee and ap
 - At-will employment relationship
 
 ## Reasonable Accommodations
+
 First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
 
 *First Baptist Church of Corsicana*

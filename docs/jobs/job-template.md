@@ -17,12 +17,15 @@ Concise paragraph describing the purpose of the position and its primary contrib
 ## Essential Functions and Responsibilities
 
 ### Primary Responsibilities
+
 (List major responsibilities and approximate percentage of time, if applicable.)
 
 ### Secondary Responsibilities
+
 (Additional responsibilities that support operations.)
 
 ### Additional Responsibilities
+
 (As assigned or situational duties.)
 
 ---
@@ -30,24 +33,29 @@ Concise paragraph describing the purpose of the position and its primary contrib
 ## Qualifications
 
 ### Required
-- 
+
+-
 
 ### Preferred
-- 
+
+-
 
 ---
 
 ## Physical Requirements and Working Conditions
-- 
+
+-
 
 ---
 
 ## Performance Expectations
-- 
+
+-
 
 ---
 
 ## Reporting Relationships
+
 **Direct Reports:**  
 **Key Internal Relationships:**  
 **External Relationships:**  
@@ -61,7 +69,8 @@ Compensation and benefits as determined by the Personnel Committee and approved 
 ---
 
 ## Employment Conditions
-- 
+
+-
 
 ---
 

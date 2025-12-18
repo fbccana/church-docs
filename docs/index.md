@@ -23,16 +23,16 @@ Unless otherwise noted, these documents represent the current, adopted policies 
 
 Use the navigation menu to access the following sections:
 
-- **Constitution**  
+- **[Constitution](/docs/constitution/)**  
   The foundational principles, doctrinal statements, and organizational structure of the church.
 
-- **Bylaws**  
+- **[Bylaws](/docs/bylaws/)**  
   Operating rules and procedures governing church life, leadership, and decision-making.
 
-- **Policies**  
+- **[Policies](/docs/policies/)**  
   Approved policies addressing ministry operations, safety, finance, facilities, and conduct.
 
-- **Job Descriptions**  
+- **[Job Descriptions](/docs/jobs/)**  
   Defined roles, responsibilities, and expectations for staff and key volunteer positions.
 
 ---

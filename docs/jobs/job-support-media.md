@@ -13,6 +13,7 @@ Develops and executes bilingual church communications strategy through digital m
 ## Essential Functions and Responsibilities
 
 ### Digital Communications and Website Management (30% of time)
+
 - Maintain and update church website with current calendar, ministry information, and promotional content in English and Spanish
 - Manage all church social media accounts with engaging, ministry-focused content for both language communities
 - Produce weekly electronic newsletters with ministry updates and announcements in both languages
@@ -21,6 +22,7 @@ Develops and executes bilingual church communications strategy through digital m
 - Monitor online engagement and optimize content for maximum reach across cultural communities
 
 ### Print Publications and Graphic Design (30% of time)
+
 - Design, produce, and distribute weekly worship guides in collaboration with ministerial staff for both English and Spanish services
 - Create monthly church calendar with accurate event information in both languages and appealing layout
 - Develop bilingual graphic designs and visual elements for all church communications
@@ -29,6 +31,7 @@ Develops and executes bilingual church communications strategy through digital m
 - Design posters, banners, and promotional materials for major church functions and Hispanic ministry events
 
 ### Hispanic Ministry and Bilingual Communications Support (25% of time)
+
 - Provide dedicated communications support to Hispanic Pastor for all ministry activities and events
 - Translate and adapt content for Spanish-speaking congregation while maintaining cultural sensitivity
 - Develop Spanish-language social media content that resonates with Hispanic community
@@ -37,6 +40,7 @@ Develops and executes bilingual church communications strategy through digital m
 - Support bilingual worship services and special events with appropriate media materials
 
 ### Worship Service Media Support and Administrative Duties (15% of time)
+
 - Prepare bilingual PowerPoint presentations for worship services with scripture, lyrics, and announcements
 - Collaborate with ministerial staff on worship guide content and layout for both services
 - Provide backup reception coverage when primary receptionist is unavailable
@@ -48,6 +52,7 @@ Develops and executes bilingual church communications strategy through digital m
 ## Qualifications
 
 ### Required
+
 - Bachelor's degree in Communications, Marketing, Graphic Design, or related field
 - Minimum 3 years of experience in media production, communications, or related work
 - Demonstrates personal salvation through faith in Jesus Christ with mature Christian testimony
@@ -58,6 +63,7 @@ Develops and executes bilingual church communications strategy through digital m
 - Strong written and verbal communication skills
 
 ### Preferred
+
 - Church or non-profit communications experience
 - Photography and videography skills
 - Email marketing platform experience (MailChimp, Constant Contact, etc.)
@@ -66,6 +72,7 @@ Develops and executes bilingual church communications strategy through digital m
 - PowerPoint and presentation software expertise
 
 ## Physical Requirements and Working Conditions
+
 - Primarily computer-based work with extended periods at workstation
 - Occasional lifting of supplies and equipment up to 20 pounds
 - Travel to off-site events for photography and videography
@@ -74,6 +81,7 @@ Develops and executes bilingual church communications strategy through digital m
 - Creative workspace with access to specialized equipment and software
 
 ## Performance Expectations
+
 - Maintain church website with current information and zero broken links
 - Publish weekly worship guides and newsletters without errors and on schedule
 - Achieve growing engagement metrics on social media platforms
@@ -82,14 +90,17 @@ Develops and executes bilingual church communications strategy through digital m
 - Support worship services without technical delays or issues
 
 ## Reporting Relationships
+
 **Direct Reports:** None  
 **Key Internal Relationships:** All ministerial staff, worship team, committee chairs, ministry leaders  
 **External Relationships:** Printing vendors, web hosting services, social media platforms, local media outlets
 
 ## Compensation and Benefits
+
 Hourly wage and benefits eligibility as determined by Personnel Committee and approved in annual church budget.
 
 ## Employment Conditions
+
 - Position continues until terminated by mutual agreement or by request of Pastor or Personnel Committee
 - Two weeks' notice required for resignation unless otherwise mutually agreed
 - Primary work schedule Tuesday-Thursday with flexibility for events and special projects
@@ -99,15 +110,18 @@ Hourly wage and benefits eligibility as determined by Personnel Committee and ap
 - At-will employment relationship
 
 ## Reasonable Accommodations
+
 First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
 
 ## Equipment and Technology Requirements
+
 - Software Proficiency: Adobe Creative Suite, Microsoft Office, website CMS, social media platforms
 - Hardware: Digital cameras, video equipment, computer workstation, printing equipment
 - Technical Skills: Basic understanding of web hosting, email marketing, and digital file management
 - Creative Tools: Access to stock photography, design templates, and multimedia resources
 
 ## Key Success Factors
+
 - Creative Excellence: Ability to produce visually appealing, professional-quality materials
 - Technical Competency: Stay current with evolving digital communication technologies
 - Ministry Focus: Understanding of how communications support evangelism and discipleship
