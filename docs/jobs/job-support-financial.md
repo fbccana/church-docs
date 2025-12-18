@@ -44,6 +44,15 @@ Maintains comprehensive church financial records, processes receipts and disburs
 - Support ministry event financial management (youth events, dinners, special programs)
 - Maintain strict confidentiality of all personal and financial information
 
+## Critical Internal Controls and Accountability Measures
+
+- **Dual Authorization**: All cash counting and deposit preparation requires multiple persons
+- **Segregation of Duties**: Financial recording, cash handling, and check signing are separated among different individuals
+- **Monthly Reconciliation**: Bank statements reconciled independently with supervisory review
+- **Authorization Limits**: All expenditures follow established approval hierarchies
+- **Documentation Requirements**: All financial transactions require proper supporting documentation
+- **Confidentiality Protocols**: Strict adherence to confidentiality of donor and financial information
+
 ## Qualifications
 
 ### Required
@@ -73,7 +82,7 @@ Maintains comprehensive church financial records, processes receipts and disburs
 ## Physical Requirements and Working Conditions
 - Primarily sedentary office work with occasional lifting up to 15 pounds
 - Extensive computer work and detailed numerical analysis
-- Schedule: Monday-Wednesday (primary work days) plus Sunday morning offering collection
+- Schedule: Monday–Wednesday (primary work days) with required Sunday morning presence for offering collection
 - Occasional evening meetings for church conferences and committee meetings
 - High level of accuracy required with financial data and sensitive information
 

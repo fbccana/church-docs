@@ -57,6 +57,7 @@ Responsible for the comprehensive management of church facilities, grounds, and 
 ## Performance Expectations
 - Maintain all church facilities in excellent condition and appearance
 - Manage facility budgets effectively and recommend cost-saving measures
+- Operate within approved budget and follow established purchasing procedures
 - Coordinate seamlessly with custodial staff and church leadership
 - Ensure compliance with safety regulations and building codes
 - Respond promptly to maintenance emergencies and special requests
