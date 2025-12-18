@@ -16,3 +16,20 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Bylaws: bylaws/index.md
+  - Constitution: constitution/index.md
+  - Policies: policies/index.md
+  - Jobs:
+    - Overview: jobs/index.md
+    - Custodial Children: jobs/job-custodial-children.md
+    - Custodial Facility: jobs/job-custodial-facility.md
+    - Custodial FLC: jobs/job-custodial-flc.md
+    - Custodial Lead: jobs/job-custodial-lead.md
+    - Support Clerk: jobs/job-support-clerk.md
+    - Support Financial: jobs/job-support-financial.md
+    - Support FLC One: jobs/job-support-flc-one.md
+    - Support FLC Two: jobs/job-support-flc-two.md
+    - Support Media: jobs/job-support-media.md
+    - Support Temp: jobs/job-support-temp.md
+    - Support Worship: jobs/job-support-worship.md
+    - Template: jobs/job-template.md
