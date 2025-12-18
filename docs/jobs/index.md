@@ -27,5 +27,5 @@ Job descriptions may be reviewed and updated as ministry needs change.
 
 ## Related Documents
 
-- Church Policies  
-- Church Bylaws  
+- [Church Policies](/church-docs/docs/policies/index.md)  
+- [Church Bylaws](/church-docs/docs/bylaws/index.md)  
