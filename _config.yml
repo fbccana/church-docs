@@ -1,7 +1,0 @@
-theme: jekyll-theme-slate
-# Or try others: jekyll-theme-merlot, jekyll-theme-cayman, jekyll-theme-architect, etc.
-# Full list: https://pages.github.com/themes/
-title: Church Docs
-description: Docs for First Baptist Corsicana
-show_downloads: false  # Hides GitHub download buttons if you don't need them
-logo: /assets/fbc-icon-2013-circle.png  # e.g., /assets/logo.png if you put it in an assets folder
