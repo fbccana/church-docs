@@ -99,6 +99,15 @@ Develops and executes bilingual church communications strategy through digital m
 **Key Internal Relationships:** All ministerial staff, worship team, committee chairs, ministry leaders  
 **External Relationships:** Printing vendors, web hosting services, social media platforms, local media outlets
 
+## RACI Chart
+
+| Activity                                    | Responsible                       | Accountable                | Consulted | Informed                               |
+| :------------------------------------------ | :-------------------------------- | :------------------------- | :-------- | :------------------------------------- |
+| Digital Communications & Website Management   | Media & Communications Assistant  | Minister of Administration | TBD       | Ministerial Staff, Church Body         |
+| Print Publications & Graphic Design         | Media & Communications Assistant  | Minister of Administration | TBD       | Ministerial Staff, Church Body         |
+| Hispanic Ministry & Bilingual Communications| Media & Communications Assistant  | Minister of Administration | TBD       | Hispanic Pastor, Ministerial Staff     |
+| Worship Service Media Support & Admin       | Media & Communications Assistant  | Minister of Administration | TBD       | Worship Team, Ministerial Staff        |
+
 ## Compensation and Benefits
 
 Hourly wage and benefits eligibility as determined by Personnel Committee and approved in annual church budget.

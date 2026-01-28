@@ -105,6 +105,15 @@ Maintains comprehensive church financial records, processes receipts and disburs
 **Key Internal Relationships:** Minister of Administration, Pastor, Finance Committee, Church Treasurer, other administrative staff  
 **External Relationships:** Bank representatives, payroll services, government agencies, vendors
 
+## RACI Chart
+
+| Activity                            | Responsible         | Accountable                | Consulted | Informed                                  |
+| :---------------------------------- | :------------------ | :------------------------- | :-------- | :---------------------------------------- |
+| Weekly Financial Operations         | Financial Secretary | Minister of Administration | TBD       | Finance Committee, Church Treasurer       |
+| Monthly Financial Reporting         | Financial Secretary | Minister of Administration | TBD       | Finance Committee, Deacons, Church Body   |
+| Payroll and Accounts Payable        | Financial Secretary | Minister of Administration | TBD       | Personnel Committee                       |
+| Government Compliance & Annual Duties | Financial Secretary | Minister of Administration | TBD       | Finance Committee, Church Treasurer       |
+
 ## Compensation and Benefits
 
 Annual salary and benefits package as determined by Personnel Committee and approved in annual church budget.

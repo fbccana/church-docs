@@ -73,6 +73,14 @@ Responsible for the cleanliness and maintenance of the gym and family life cente
 **Key Internal Relationships:** Facilities Manager, Lead Custodian, Ministry Staff  
 **External Relationships:** Equipment Vendors, Maintenance Contractors
 
+## RACI Chart
+
+| Activity                          | Responsible     | Accountable                | Consulted | Informed                        |
+| :-------------------------------- | :-------------- | :------------------------- | :-------- | :------------------------------ |
+| FLC Cleaning & Maintenance        | Custodian - FLC | Minister of Administration | TBD       | Facilities Manager, FLC Staff   |
+| Maintenance Assistance            | Custodian - FLC | Minister of Administration | TBD       | Facilities Manager              |
+| Event Support & Supply Management | Custodian - FLC | Minister of Administration | TBD       | Facilities Manager, Ministry Staff |
+
 ## Compensation and Benefits
 
 Hourly wage as determined by Personnel Committee and approved in annual church budget. Additional compensation available for wedding assistance per church policy.

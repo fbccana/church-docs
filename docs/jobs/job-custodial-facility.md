@@ -79,6 +79,14 @@ Responsible for the comprehensive management of church facilities, grounds, and 
 **Key Internal Relationships:** Minister of Administration, Church Secretary, All Ministry Staff, Custodial Team  
 **External Relationships:** Contractors, Vendors, Service Providers, Equipment Suppliers
 
+## RACI Chart
+
+| Activity                          | Responsible        | Accountable                | Consulted | Informed                                   |
+| :-------------------------------- | :----------------- | :------------------------- | :-------- | :----------------------------------------- |
+| Facility & Grounds Management     | Facilities Manager | Minister of Administration | TBD       | Properties Committee, Ministry Staff |
+| Custodial Coordination & Security | Facilities Manager | Minister of Administration | TBD       | Custodial Team, Church Secretary           |
+| Supervision & Vendor Management   | Facilities Manager | Minister of Administration | TBD       | Personnel Committee, Finance Committee     |
+
 ## Compensation and Benefits
 
 Hourly wage and benefits package as determined by Personnel Committee and approved in annual church budget.

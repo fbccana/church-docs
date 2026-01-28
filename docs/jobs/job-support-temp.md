@@ -68,6 +68,13 @@ Provides temporary reception and administrative support services when regular su
 **Key Internal Relationships:** Minister of Administration, Regular Support Staff, All Church Staff  
 **External Relationships:** Church Members, Visitors, Vendors, Community Contacts
 
+## RACI Chart
+
+| Activity                        | Responsible             | Accountable                | Consulted | Informed                           |
+| :------------------------------ | :---------------------- | :------------------------- | :-------- | :--------------------------------- |
+| Reception & Visitor Assistance  | Substitute Receptionist | Minister of Administration | TBD       | Ministerial Staff, Support Staff   |
+| Clerical & Administrative Tasks | Substitute Receptionist | Minister of Administration | TBD       | Ministerial Staff, Support Staff   |
+
 ## Compensation and Benefits
 Hourly wage for actual hours worked as determined by Personnel Committee and approved in annual church budget.
 

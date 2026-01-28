@@ -101,6 +101,15 @@ Serves as the primary administrative support for pastoral staff and church opera
 **Key Internal Relationships:** All ministerial staff, Hispanic Pastor, Building Supervisor, committee chairs, ministry team leaders  
 **External Relationships:** Church members, visitors, vendors, community partners, denominational contacts
 
+## RACI Chart
+
+| Activity                                          | Responsible      | Accountable                | Consulted | Informed                                       |
+| :------------------------------------------------ | :--------------- | :------------------------- | :-------- | :--------------------------------------------- |
+| Membership & Database Management                  | Church Secretary | Minister of Administration | TBD       | Pastor, Ministerial Staff                      |
+| Administrative Support                            | Church Secretary | Minister of Administration | TBD       | Ministerial Staff, Committee Chairs            |
+| Communications & Outreach Support                 | Church Secretary | Minister of Administration | TBD       | Pastor, Ministerial Staff, Church Body         |
+| Bilingual Support and Hispanic Ministry Assistance| Church Secretary | Minister of Administration | TBD       | Hispanic Pastor, Ministerial Staff             |
+
 ## Compensation and Benefits
 
 Position salary and benefits package as determined by Personnel Committee and approved in annual church budget.
