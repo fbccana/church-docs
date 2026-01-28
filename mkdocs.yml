@@ -21,15 +21,23 @@ nav:
   - Policies: policies/index.md
   - Jobs:
     - Overview: jobs/index.md
-    - Custodial Children: jobs/job-custodial-children.md
-    - Custodial Facility: jobs/job-custodial-facility.md
-    - Custodial FLC: jobs/job-custodial-flc.md
-    - Custodial Lead: jobs/job-custodial-lead.md
-    - Support Clerk: jobs/job-support-clerk.md
-    - Support Financial: jobs/job-support-financial.md
-    - Support FLC One: jobs/job-support-flc-one.md
-    - Support FLC Two: jobs/job-support-flc-two.md
-    - Support Media: jobs/job-support-media.md
-    - Support Temp: jobs/job-support-temp.md
-    - Support Worship: jobs/job-support-worship.md
+    - Custodial:
+      - Overview: jobs/custodial/index.md
+      - Children: jobs/custodial/job-custodial-children.md
+      - Facility: jobs/custodial/job-custodial-facility.md
+      - FLC: jobs/custodial/job-custodial-flc.md
+      - Lead: jobs/custodial/job-custodial-lead.md
+    - Ministerial:
+      - Overview: jobs/ministerial/index.md
+    - Program:
+      - Overview: jobs/program/index.md
+      - Worship: jobs/program/job-support-worship.md
+    - Support:
+      - Overview: jobs/support/index.md
+      - Clerk: jobs/support/job-support-clerk.md
+      - Financial: jobs/support/job-support-financial.md
+      - FLC One: jobs/support/job-support-flc-one.md
+      - FLC Two: jobs/support/job-support-flc-two.md
+      - Media: jobs/support/job-support-media.md
+      - Temp: jobs/support/job-support-temp.md
     - Template: jobs/job-template.md
