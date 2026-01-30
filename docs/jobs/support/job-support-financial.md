@@ -21,7 +21,8 @@ Maintains comprehensive church financial records, processes receipts and disburs
 - Participate in multi-person counting and verification of all church offerings and contributions
 - Prepare and process bank deposits with dual authorization protocols
 - Post weekly offerings to individual member stewardship accounts with accuracy verification
-- Reconcile online giving and other donation sources weekly; process gift acknowledgements and maintain donor documentation per policy
+- Reconcile online giving and other donation sources weekly  
+- Process gift acknowledgements and maintain donor documentation per policy
 - Record receipts and disbursements to appropriate general ledger accounts
 - Process memorial gifts and special contributions with proper documentation
 - Maintain separation of duties protocols throughout all cash handling procedures
@@ -76,6 +77,7 @@ Maintains comprehensive church financial records, processes receipts and disburs
 - Knowledge of IRS regulations for religious organizations
 - Experience with payroll tax preparation and compliance
 - Understanding of internal control systems and fraud prevention
+- Fidelity bonding available through church insurance (not routinely required)
 
 ## Critical Internal Controls and Accountability Measures
 
@@ -87,7 +89,6 @@ Maintains comprehensive church financial records, processes receipts and disburs
 - **Access Controls & Backups:** Financial system access must be role-based with periodic access reviews, secure password/2FA practices, and routine secure backups with a 7-year retention policy for financial records.
 - **Contacts & Documentation:** Maintain up-to-date bank, payroll, and auditor contact lists and retain copies of bank authorizations, bonding certificates, and relevant documentation
 - **Documentation & Retention:** All financial transactions require proper supporting documentation and retention according to policy to facilitate audits and reviews.
-- **Bonding & Insurance:** Position requires fidelity bonding as part of the church insurance policy; document bonding coverage and limits.
 - **Confidentiality Protocols:** Strict adherence to confidentiality and privacy controls for donor and financial information.
 
 ## Physical Requirements and Working Conditions
@@ -139,7 +140,6 @@ Annual salary and benefits package as determined by Personnel Committee and appr
 - Subject to successful completion of comprehensive background checks including criminal, financial, and driving records
 - Annual drug screening required due to financial responsibilities
 - Compliance with all established church policies, financial procedures, and governmental regulations required
-- Bonding Requirement: Position requires fidelity bonding through church insurance policy
 - Ensure at least one fully trained backup for all critical financial functions and participate in quarterly handover drills to validate continuity and documentation
 
 **Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core financial duties (prepare a sample bank reconciliation, prepare a sample deposit and demonstrate the dual-authorization workflow, generate a stewardship or financial report, and demonstrate access to financial systems) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
