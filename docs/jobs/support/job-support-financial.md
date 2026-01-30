@@ -122,12 +122,13 @@ Monday–Wednesday (primary work days); Sunday morning presence required for off
 
 ## RACI Chart
 
-| Activity                            | Responsible         | Accountable                | Consulted | Informed                                  |
-| :---------------------------------- | :------------------ | :------------------------- | :-------- | :---------------------------------------- |
-| Weekly Financial Operations         | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Finance Committee, Church Treasurer       |
-| Monthly Financial Reporting         | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Finance Committee, Deacons, Church Body   |
-| Payroll and Accounts Payable        | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Personnel Committee                       |
-| Government Compliance & Annual Duties | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Finance Committee, Church Treasurer       |
+| Activity | Responsible | Accountable | Consulted | Informed |
+| :--- | :--- | :--- | :--- | :--- |
+| Weekly Financial Operations | Financial Secretary | Minister of Administration | Church Treasurer, Finance Committee | Staff |
+| Bank Deposits & Dual Authorization | Financial Secretary / Church Treasurer (joint) | Minister of Administration | Finance Committee | Staff |
+| Payroll & Accounts Payable | Financial Secretary | Minister of Administration | Personnel Committee | Staff |
+| Monthly & Annual Financial Reporting | Financial Secretary | Minister of Administration | Finance Committee, Church Treasurer | Deacons, Church Body |
+| Compliance & External Reporting | Financial Secretary | Minister of Administration | Auditor, Legal Counsel | Finance Committee |
 
 ## Compensation and Benefits
 

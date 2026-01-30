@@ -98,11 +98,12 @@ Both positions perform identical duties and responsibilities
 
 ## RACI Chart
 
-| Activity                             | Responsible       | Accountable                | Consulted | Informed                             |
-| :----------------------------------- | :---------------- | :------------------------- | :-------- | :----------------------------------- |
-| Facility Operations Management       | FLC Receptionist  | Minister of Administration | Assigned by Minister of Administration | Custodial Staff, FLC Members         |
-| Customer Service and Reception       | FLC Receptionist  | Minister of Administration | Assigned by Minister of Administration | Ministerial Staff, Church Body       |
-| Administrative and Coordination Duties | FLC Receptionist  | Minister of Administration | Assigned by Minister of Administration | Support Staff, Committee Chairs      |
+| Activity | Responsible | Accountable | Consulted | Informed |
+| :--- | :--- | :--- | :--- | :--- |
+| Facility Operations Management | FLC Receptionist / Assigned Backup | Minister of Administration | Custodial Staff, Building Supervisor | Support Staff, FLC Members |
+| Customer Service & Reception | FLC Receptionist / Assigned Backup | Minister of Administration | Ministerial Staff | Church Body |
+| Administrative & Coordination Duties | FLC Receptionist | Minister of Administration | Support Staff, Committee Chairs | Ministerial Staff, Committee Chairs |
+| Event Reservation & Scheduling | FLC Receptionist / Church Secretary (joint) | Minister of Administration | Event Organizers, Building Supervisor | Congregation |
 
 ## Compensation and Benefits
 
