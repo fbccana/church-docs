@@ -67,7 +67,7 @@ Serves as the primary administrative support for pastoral staff and church opera
 - Excellent written and verbal communication skills in English
 - Strong organizational and multitasking abilities
 - Professional phone etiquette and customer service skills
-- Basic conversational Spanish proficiency preferred for member assistance
+- Conversational Spanish proficiency preferred for member assistance
 
 ### Preferred
 
@@ -110,10 +110,10 @@ Occasional evenings and weekends as needed for special events and congregational
 
 | Activity                                          | Responsible      | Accountable                | Consulted | Informed                                       |
 | :------------------------------------------------ | :--------------- | :------------------------- | :-------- | :--------------------------------------------- |
-| Membership & Database Management                  | Church Secretary | Minister of Administration | Assigned by Minister of Administration | Pastor, Ministerial Staff                      |
-| Administrative Support                            | Church Secretary | Minister of Administration | Assigned by Minister of Administration | Ministerial Staff, Committee Chairs            |
-| Communications & Outreach Support                 | Church Secretary | Minister of Administration | Assigned by Minister of Administration | Pastor, Ministerial Staff, Church Body         |
-| Bilingual Support and Hispanic Ministry Assistance| Church Secretary | Minister of Administration | Assigned by Minister of Administration | Hispanic Pastor, Ministerial Staff             |
+| Membership & Database Management                  | Church Secretary | Minister of Administration | Ministerial Staff | Pastor, Ministerial Staff                      |
+| Administrative Support                            | Church Secretary | Minister of Administration | Committee Chairs, Minister of Administration | Ministerial Staff, Committee Chairs            |
+| Communications & Outreach Support                 | Church Secretary | Minister of Administration | Pastor, Ministerial Staff | Pastor, Ministerial Staff, Church Body         |
+| Bilingual Support and Hispanic Ministry Assistance| Church Secretary | Minister of Administration | Hispanic Pastor | Hispanic Pastor, Ministerial Staff             |
 
 ## Compensation and Benefits
 
@@ -125,6 +125,7 @@ Position salary and benefits package as determined by Personnel Committee and ap
 - Two weeks' notice required for resignation unless otherwise mutually agreed
 - Subject to successful completion of criminal background check, financial background check, and drug screening
 - Compliance with all established church policies and procedures required
+- Ensure at least one trained backup for primary administrative duties and participate in quarterly handover drills to verify continuity
 - Regular attendance at staff meetings as requested
 - At-will employment relationship
 
