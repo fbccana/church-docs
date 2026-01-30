@@ -1,0 +1,7 @@
+# Ignore build objects
+GEMINI.md
+
+# Protect specific files
+!LICENSE
+!CHANGELOG
+!README
