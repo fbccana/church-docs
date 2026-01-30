@@ -114,6 +114,9 @@ Hourly wage funded through designated support staff budget as determined by chur
 - Work schedule and hours as agreed upon with Minister of Community Outreach
 - Compliance with all established church policies, safety procedures, and FLC guidelines required
 - Reliable attendance essential due to facility security and member service requirements
+
+**Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core FLC duties (facility opening/closing checklist, equipment sanitization, visitor check-in and access control, and process a sample facility reservation) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
+
 - At-will employment relationship
 
 !!! info "Reasonable Accommodations"

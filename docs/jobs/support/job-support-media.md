@@ -124,6 +124,9 @@ Hourly wage and benefits eligibility as determined by Personnel Committee and ap
 - Subject to successful completion of background checks and drug screening
 - Compliance with all established church policies and procedures required
 - Regular attendance at staff meetings as requested
+
+**Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core media duties (publish a worship guide draft, update the website calendar, prepare a bilingual slide deck for worship, and demonstrate playback/setup for a service) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
+
 - At-will employment relationship
 
 !!! info "Reasonable Accommodations"

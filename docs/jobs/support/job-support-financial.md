@@ -136,6 +136,9 @@ Annual salary and benefits package as determined by Personnel Committee and appr
 - Compliance with all established church policies, financial procedures, and governmental regulations required
 - Bonding Requirement: Position requires fidelity bonding through church insurance policy
 - Participate in quarterly cross-training and succession planning to ensure continuity of financial operations
+
+**Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core financial duties (prepare a sample bank reconciliation, prepare a sample deposit and demonstrate the dual-authorization workflow, generate a stewardship or financial report, and demonstrate access to financial systems) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
+
 - At-will employment relationship
 
 !!! info "Reasonable Accommodations"
