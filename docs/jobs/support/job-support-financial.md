@@ -21,6 +21,7 @@ Maintains comprehensive church financial records, processes receipts and disburs
 - Participate in multi-person counting and verification of all church offerings and contributions
 - Prepare and process bank deposits with dual authorization protocols
 - Post weekly offerings to individual member stewardship accounts with accuracy verification
+- Reconcile online giving and other donation sources weekly; process gift acknowledgements and maintain donor documentation per policy
 - Record receipts and disbursements to appropriate general ledger accounts
 - Process memorial gifts and special contributions with proper documentation
 - Maintain separation of duties protocols throughout all cash handling procedures
@@ -31,6 +32,7 @@ Maintains comprehensive church financial records, processes receipts and disburs
 - Complete monthly bank reconciliation statements with supervisory review
 - Attend monthly church conferences and special business meetings as required
 - Generate monthly stewardship reports and contribution summaries
+- Prepare monthly variance analysis vs. budget and provide commentary for the Finance Committee
 - Prepare and file monthly payroll tax deposits and reports
 - Communicate budget status to ministry leaders and department heads
 
@@ -79,9 +81,11 @@ Maintains comprehensive church financial records, processes receipts and disburs
 
 - **Annual Audit & Documentation:** Prepare and maintain complete records to support an independent annual audit; ensure audit readiness and timely responses to auditor inquiries.
 - **Dual Authorization:** Deposits, transfers, and disbursements require dual authorization per established thresholds; check-signing follows delegated authority limits.
+- **Authorized Signers:** Maintain an up-to-date list of authorized check signers and document authorization limits; review list annually with the Finance Committee
 - **Segregation of Duties:** Financial recording, cash handling, reconciliation, and check issuance are segregated among multiple individuals to reduce risk.
 - **Timely Reconciliations:** Complete monthly bank reconciliations and supporting schedules within 7 business days of month-end with independent supervisory review.
 - **Access Controls & Backups:** Financial system access must be role-based with periodic access reviews, secure password/2FA practices, and routine secure backups with a 7-year retention policy for financial records.
+- **Contacts & Documentation:** Maintain up-to-date bank, payroll, and auditor contact lists and retain copies of bank authorizations, bonding certificates, and relevant documentation
 - **Documentation & Retention:** All financial transactions require proper supporting documentation and retention according to policy to facilitate audits and reviews.
 - **Bonding & Insurance:** Position requires fidelity bonding as part of the church insurance policy; document bonding coverage and limits.
 - **Confidentiality Protocols:** Strict adherence to confidentiality and privacy controls for donor and financial information.
@@ -101,6 +105,7 @@ Maintains comprehensive church financial records, processes receipts and disburs
 - Process payroll without errors and within required timeframes
 - Achieve zero discrepancies in bank reconciliation processes
 - Submit all government reports and tax filings on time and without penalties
+- Respond to Finance Committee or auditor requests within 3 business days
 - Maintain complete confidentiality of financial and donor information
 - Ensure at least one trained backup for all critical financial responsibilities and perform quarterly handover drills to verify continuity
 
@@ -135,7 +140,7 @@ Annual salary and benefits package as determined by Personnel Committee and appr
 - Annual drug screening required due to financial responsibilities
 - Compliance with all established church policies, financial procedures, and governmental regulations required
 - Bonding Requirement: Position requires fidelity bonding through church insurance policy
-- Participate in quarterly cross-training and succession planning to ensure continuity of financial operations
+- Ensure at least one fully trained backup for all critical financial functions and participate in quarterly handover drills to validate continuity and documentation
 
 **Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core financial duties (prepare a sample bank reconciliation, prepare a sample deposit and demonstrate the dual-authorization workflow, generate a stewardship or financial report, and demonstrate access to financial systems) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
 
