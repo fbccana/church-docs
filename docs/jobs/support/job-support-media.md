@@ -93,6 +93,10 @@ Develops and executes bilingual church communications strategy through digital m
 - Maintain organized digital asset library with proper file management
 - Support worship services without technical delays or issues
 
+## Schedule Information
+
+Primary schedule: Tuesday–Thursday. Flexible hours (evenings and weekends) required for event and worship coverage.
+
 ## Reporting Relationships
 
 **Direct Reports:** None  
@@ -103,10 +107,10 @@ Develops and executes bilingual church communications strategy through digital m
 
 | Activity                                    | Responsible                       | Accountable                | Consulted | Informed                               |
 | :------------------------------------------ | :-------------------------------- | :------------------------- | :-------- | :------------------------------------- |
-| Digital Communications & Website Management   | Media & Communications Assistant  | Minister of Administration | TBD       | Ministerial Staff, Church Body         |
-| Print Publications & Graphic Design         | Media & Communications Assistant  | Minister of Administration | TBD       | Ministerial Staff, Church Body         |
-| Hispanic Ministry & Bilingual Communications| Media & Communications Assistant  | Minister of Administration | TBD       | Hispanic Pastor, Ministerial Staff     |
-| Worship Service Media Support & Admin       | Media & Communications Assistant  | Minister of Administration | TBD       | Worship Team, Ministerial Staff        |
+| Digital Communications & Website Management   | Media & Communications Assistant  | Minister of Administration | Assigned by Minister of Administration | Ministerial Staff, Church Body         |
+| Print Publications & Graphic Design         | Media & Communications Assistant  | Minister of Administration | Assigned by Minister of Administration | Ministerial Staff, Church Body         |
+| Hispanic Ministry & Bilingual Communications| Media & Communications Assistant  | Minister of Administration | Assigned by Minister of Administration | Hispanic Pastor, Ministerial Staff     |
+| Worship Service Media Support & Admin       | Media & Communications Assistant  | Minister of Administration | Assigned by Minister of Administration | Worship Team, Ministerial Staff        |
 
 ## Compensation and Benefits
 

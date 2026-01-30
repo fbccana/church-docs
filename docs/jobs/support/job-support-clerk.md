@@ -8,7 +8,7 @@ title: Church Secretary
 | **Reports To** | Pastor and Minister of Administration |
 | **FLSA Status**| Non-Exempt                         |
 | **Employment** | Full-time                          |
-| **Date**       | December 2025                      |
+| **Date**       | December 17, 2025                  |
 
 ## Position Summary
 
@@ -95,6 +95,11 @@ Serves as the primary administrative support for pastoral staff and church opera
 - Maintain professional, Christ-like demeanor in all interactions
 - Support staff meetings and church events as scheduled
 
+## Schedule Information
+
+Monday–Friday – [8:00AM–5:00PM]  
+Occasional evenings and weekends as needed for special events and congregational meetings.
+
 ## Reporting Relationships
 
 **Direct Reports:** None  
@@ -105,10 +110,10 @@ Serves as the primary administrative support for pastoral staff and church opera
 
 | Activity                                          | Responsible      | Accountable                | Consulted | Informed                                       |
 | :------------------------------------------------ | :--------------- | :------------------------- | :-------- | :--------------------------------------------- |
-| Membership & Database Management                  | Church Secretary | Minister of Administration | TBD       | Pastor, Ministerial Staff                      |
-| Administrative Support                            | Church Secretary | Minister of Administration | TBD       | Ministerial Staff, Committee Chairs            |
-| Communications & Outreach Support                 | Church Secretary | Minister of Administration | TBD       | Pastor, Ministerial Staff, Church Body         |
-| Bilingual Support and Hispanic Ministry Assistance| Church Secretary | Minister of Administration | TBD       | Hispanic Pastor, Ministerial Staff             |
+| Membership & Database Management                  | Church Secretary | Minister of Administration | Assigned by Minister of Administration | Pastor, Ministerial Staff                      |
+| Administrative Support                            | Church Secretary | Minister of Administration | Assigned by Minister of Administration | Ministerial Staff, Committee Chairs            |
+| Communications & Outreach Support                 | Church Secretary | Minister of Administration | Assigned by Minister of Administration | Pastor, Ministerial Staff, Church Body         |
+| Bilingual Support and Hispanic Ministry Assistance| Church Secretary | Minister of Administration | Assigned by Minister of Administration | Hispanic Pastor, Ministerial Staff             |
 
 ## Compensation and Benefits
 

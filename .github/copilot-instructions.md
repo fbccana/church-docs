@@ -1,98 +1,48 @@
-# Copilot Instructions - Church Documentation Repository
+# Copilot Instructions — Church Documents (Actionable Guide)
 
-## Project Overview
-This is a **church governance documentation site** built with **MkDocs** and **Material theme**, deployed to GitHub Pages. The repository centralizes the church's constitution, bylaws, policies, and job descriptions in a single-source-of-truth format.
+## Quick summary
+- Purpose: single-source church governance docs built with **MkDocs + Material**. Changes are content edits (Markdown) and navigation updates in `mkdocs.yml`.
+- Primary folders: `docs/` (content), `docs/jobs/` (job descriptions by department), and `mkdocs.yml` (site nav and theme).
 
-## Architecture & File Organization
+## How to be immediately productive
+- Find examples: `docs/jobs/job-template.md` (canonical template), `docs/jobs/support/job-support-flc-one.md` (complex example), `docs/jobs/support/job-support-clerk.md` (bilingual example).
+- Common commands:
+  - Preview: `mkdocs serve` (http://localhost:8000/)
+  - Build static site: `mkdocs build` (output -> `site/`)
+  - Quick commit/push helper: `./up.sh` (interactive script in repo root)
 
-### Key Directories
-- `docs/` - All site content (Markdown)
-  - `jobs/` - Job descriptions organized by department (custodial, ministerial, program, support)
-  - `policies/` - Church operational policies
-  - `bylaws/` - Governing bylaws and procedures
-  - `constitution/` - Foundational doctrinal and structural documents
-- `mkdocs.yml` - Site configuration, navigation structure, theme settings
-- `docs/jobs/job-template.md` - **Use as template for all new job descriptions**
+## Editing & adding content (practical rules)
+- New job files: copy `docs/jobs/job-template.md` and save under `docs/jobs/<category>/job-<category>-<slug>.md` (e.g., `job-support-flc-one.md`).
+- Metadata: maintain the metadata block/table (Department, Reports To, FLSA Status, Employment Type, Date). Update `Date` on edits.
+- Conventions to preserve:
+  - Time allocations commonly use 40/35/25 or 35/35/30 split for Primary/Secondary/Additional duties; mirror existing examples when possible (see `job-support-flc-one.md`).
+  - Include RACI tables for multi-stakeholder roles where appropriate.
+  - Mark bilingual roles explicitly in Qualifications and Responsibilities (e.g., `job-support-clerk.md`, `job-support-media.md`).
+  - Use full date format `December 17, 2025` for the `Date` metadata field across files for consistency.
+  - Add a `Schedule Information` section for roles with regular schedules; for temporary/as-needed roles, state `Temporary / As-needed` and note on-call expectations.
+  - Financial roles must include a `Critical Internal Controls` or equivalent section describing dual authorization, segregation of duties, reconciliation, and bonding requirements (see `job-support-financial.md`).
+- Navigation: when adding/removing files, update `mkdocs.yml` nav (see the Jobs → Support section as the pattern). Run `mkdocs serve` to verify the nav and links.
 
-### Content Patterns
+## QA checklist before opening a PR ✅
+1. Copy from `job-template.md` when creating job descriptions.
+2. Run `mkdocs build` and fix any link warnings or missing assets.
+3. Run `mkdocs serve` and visually verify page layout, tables, and nav order.
+4. Ensure cross-links use relative paths and are valid from the file's location.
+5. Update `Date` metadata and `mkdocs.yml` nav if file is new.
 
-**Job Descriptions** follow strict formatting (see [job-template.md](docs/jobs/job-template.md)):
-- Front matter with title (YAML)
-- Metadata table: Department, Reports To, FLSA Status, Employment Type, Date
-- Sections: Position Summary, Essential Functions (40/35/25% time splits common), Qualifications (Required/Preferred), Physical Requirements, Performance Expectations, Reporting Relationships, Compensation/Benefits, Employment Conditions
-- Advanced job files (e.g., [job-support-flc-one.md](docs/jobs/support/job-support-flc-one.md)) include RACI charts and schedule information
+## Tone & content expectations
+- Keep language clear, non-legal, ministry-focused, and accessible.
+- Documents state purpose, scope, and effective date near the top.
+- Preserve existing formatting patterns (tables for metadata, headings for sections).
 
-**Index Pages** ([docs/index.md](docs/index.md), [docs/jobs/index.md](docs/jobs/index.md)):
-- Introductory context explaining purpose and applicability
-- Links to related documents
-- Ministry philosophy (governance supports ministry clarity and order)
+## Where to look for edge cases
+- Complex examples with RACI and schedule sections: `docs/jobs/support/job-support-flc-one.md`.
+- Language-sensitive examples: `docs/jobs/support/job-support-clerk.md`.
+- Configuration: `mkdocs.yml` (nav and theme).
 
-## MkDocs Build & Deployment
+## Example small PR description template
+- Title: `docs(jobs): add job-support-<slug> for <role>`
+- Body: one-sentence summary, files changed, verification steps (mkdocs build + serve pass).
 
-**Build Command**: `mkdocs build` (generates static site in `site/` folder)  
-**Serve Locally**: `mkdocs serve` (preview at `http://localhost:8000/`)  
-**Deployment**: Push to repo → GitHub Actions → GitHub Pages (automatic)
-
-**Theme Configuration** in [mkdocs.yml](mkdocs.yml):
-- Material theme with slate scheme, blue-grey primary, amber accent
-- Extensions: admonition, toc (with permalinks), footnotes, tables
-- Navigation auto-configured from YAML structure
-
-## Critical Conventions
-
-1. **Job Description Metadata**: Always use consistent metadata table format with key fields in column 1, values in column 2
-2. **Time Allocations**: Primary/Secondary/Additional responsibilities often broken into % time spent (40/35/25 pattern seen in support roles)
-3. **RACI Charts**: Complex multi-stakeholder roles should include RACI responsibility matrix
-4. **Bilingual Support**: For roles serving Spanish-speaking congregation, explicitly note bilingual requirements in Qualifications and Responsibilities sections
-5. **Cross-linking**: Use relative Markdown links to connect related documents (e.g., job descriptions linking to Policies, Bylaws sections)
-
-## Document Structure Philosophy
-
-All documents should:
-- State purpose clearly in introduction or summary section
-- Define scope and applicability
-- Use consistent formatting with headers, tables, and lists for scannability
-- Link to related documents
-- Include effective date or last update (as version control, not content)
-- Avoid jargon; church context is primary, not legal/technical language
-
-## When Editing/Creating Content
-
-**New Job Descriptions**: 
-1. Copy [job-template.md](docs/jobs/job-template.md) structure exactly
-2. Place in appropriate subfolder under `docs/jobs/` (custodial, ministerial, program, or support)
-3. Add entry to `mkdocs.yml` nav under the appropriate job category
-4. Use percentage-based time allocations for realistic responsibility distribution
-
-**Policy/Bylaw Updates**:
-- Maintain consistent section structure across related documents
-- Update date field when content changes
-- Preserve historical context (these are governing documents, not disposable)
-
-**Navigation Changes**:
-- Edit `mkdocs.yml` nav section to match physical file structure
-- Test with `mkdocs serve` before committing
-
-## Common Tasks & Commands
-
-| Task | Command |
-|------|---------|
-| Preview site locally | `mkdocs serve` |
-| Build for deployment | `mkdocs build` |
-| Validate YAML structure | Parse `mkdocs.yml` via editor or linter |
-| Check links in Markdown | Review relative paths match actual files |
-
-## Key Files as References
-
-- [job-support-flc-one.md](docs/jobs/support/job-support-flc-one.md) - Comprehensive example with RACI chart, schedule details, and multiple responsibility sections
-- [job-support-clerk.md](docs/jobs/support/job-support-clerk.md) - Bilingual role example with time allocations and complex stakeholder relationships
-- [mkdocs.yml](mkdocs.yml) - Defines complete site structure and theme
-- [GEMINI.md](GEMINI.md) - Original system instructions for AI assistant work on this repo
-
-## Special Notes
-
-- All documents use standard Markdown; no custom syntax
-- Ministry context: these documents serve transparency, accountability, and unity—not just bureaucracy
-- No code in this repository; purely documentation and configuration
-- Site builds automatically on push via GitHub Pages integration
-
+---
+If you'd like, I can apply this condensed instruction file in `.github/copilot-instructions.md` now and iteratively refine any missing specifics. Please point out any areas you'd like emphasized or left out.

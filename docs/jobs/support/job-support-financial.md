@@ -49,6 +49,7 @@ Maintains comprehensive church financial records, processes receipts and disburs
 - Generate W-2 and 1099-MISC forms for year-end reporting
 - Mail annual contribution statements to all donors
 - Assist with annual budget preparation and financial analysis
+- Prepare documentation for the annual independent audit and respond to auditor requests; maintain trial balance backups and audit schedules for the Finance Committee
 - Support ministry event financial management (youth events, dinners, special programs)
 - Maintain strict confidentiality of all personal and financial information
 
@@ -64,6 +65,7 @@ Maintains comprehensive church financial records, processes receipts and disburs
 - Strong mathematical skills and exceptional attention to detail
 - Excellent written and verbal communication skills
 - Understanding of non-profit accounting principles and tax-exempt regulations
+- Familiarity with role-based permissions, secure password practices, access logging, and general system security principles for financial systems
 
 ### Preferred
 
@@ -75,12 +77,14 @@ Maintains comprehensive church financial records, processes receipts and disburs
 
 ## Critical Internal Controls and Accountability Measures
 
-- **Dual Authorization**: All cash counting and deposit preparation requires multiple persons
-- **Segregation of Duties**: Financial recording, cash handling, and check signing are separated among different individuals
-- **Monthly Reconciliation**: Bank statements reconciled independently with supervisory review
-- **Authorization Limits**: All expenditures follow established approval hierarchies
-- **Documentation Requirements**: All financial transactions require proper supporting documentation
-- **Confidentiality Protocols**: Strict adherence to confidentiality of donor and financial information
+- **Annual Audit & Documentation:** Prepare and maintain complete records to support an independent annual audit; ensure audit readiness and timely responses to auditor inquiries.
+- **Dual Authorization:** Deposits, transfers, and disbursements require dual authorization per established thresholds; check-signing follows delegated authority limits.
+- **Segregation of Duties:** Financial recording, cash handling, reconciliation, and check issuance are segregated among multiple individuals to reduce risk.
+- **Timely Reconciliations:** Complete monthly bank reconciliations and supporting schedules within 7 business days of month-end with independent supervisory review.
+- **Access Controls & Backups:** Financial system access must be role-based with periodic access reviews, secure password/2FA practices, and routine secure backups with a 7-year retention policy for financial records.
+- **Documentation & Retention:** All financial transactions require proper supporting documentation and retention according to policy to facilitate audits and reviews.
+- **Bonding & Insurance:** Position requires fidelity bonding as part of the church insurance policy; document bonding coverage and limits.
+- **Confidentiality Protocols:** Strict adherence to confidentiality and privacy controls for donor and financial information.
 
 ## Physical Requirements and Working Conditions
 
@@ -93,11 +97,16 @@ Maintains comprehensive church financial records, processes receipts and disburs
 ## Performance Expectations
 
 - Maintain 100% accuracy in all financial postings and reports
-- Complete monthly financial reports by designated deadlines
+- Complete monthly financial reports and bank reconciliations within 7 business days of month-end
 - Process payroll without errors and within required timeframes
 - Achieve zero discrepancies in bank reconciliation processes
-- Submit all government reports on time and without penalties
+- Submit all government reports and tax filings on time and without penalties
 - Maintain complete confidentiality of financial and donor information
+- Ensure at least one trained backup for all critical financial responsibilities and perform quarterly handover drills to verify continuity
+
+## Schedule Information
+
+Monday–Wednesday (primary work days); Sunday morning presence required for offering collection and deposits. Additional days/hours as needed for month-end close and annual reporting.
 
 ## Reporting Relationships
 
@@ -109,10 +118,10 @@ Maintains comprehensive church financial records, processes receipts and disburs
 
 | Activity                            | Responsible         | Accountable                | Consulted | Informed                                  |
 | :---------------------------------- | :------------------ | :------------------------- | :-------- | :---------------------------------------- |
-| Weekly Financial Operations         | Financial Secretary | Minister of Administration | TBD       | Finance Committee, Church Treasurer       |
-| Monthly Financial Reporting         | Financial Secretary | Minister of Administration | TBD       | Finance Committee, Deacons, Church Body   |
-| Payroll and Accounts Payable        | Financial Secretary | Minister of Administration | TBD       | Personnel Committee                       |
-| Government Compliance & Annual Duties | Financial Secretary | Minister of Administration | TBD       | Finance Committee, Church Treasurer       |
+| Weekly Financial Operations         | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Finance Committee, Church Treasurer       |
+| Monthly Financial Reporting         | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Finance Committee, Deacons, Church Body   |
+| Payroll and Accounts Payable        | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Personnel Committee                       |
+| Government Compliance & Annual Duties | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Finance Committee, Church Treasurer       |
 
 ## Compensation and Benefits
 
@@ -126,6 +135,7 @@ Annual salary and benefits package as determined by Personnel Committee and appr
 - Annual drug screening required due to financial responsibilities
 - Compliance with all established church policies, financial procedures, and governmental regulations required
 - Bonding Requirement: Position requires fidelity bonding through church insurance policy
+- Participate in quarterly cross-training and succession planning to ensure continuity of financial operations
 - At-will employment relationship
 
 !!! info "Reasonable Accommodations"
