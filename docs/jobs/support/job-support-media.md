@@ -93,6 +93,10 @@ Develops and executes bilingual church communications strategy through digital m
 - Maintain organized digital asset library with proper file management
 - Support worship services without technical delays or issues
 
+## Schedule Information
+
+Primary schedule: Tuesday–Thursday. Flexible hours (evenings and weekends) required for event and worship coverage.
+
 ## Reporting Relationships
 
 **Direct Reports:** None  

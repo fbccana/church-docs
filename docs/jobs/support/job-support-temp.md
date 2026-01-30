@@ -63,6 +63,10 @@ Provides temporary reception and administrative support services when regular su
 - Preserve confidentiality of church information and member communications
 - Support smooth church office operations during regular staff absences
 
+## Schedule Information
+
+Temporary / As-needed basis; schedule varies by staffing needs and is assigned on an on-call basis.
+
 ## Reporting Relationships
 **Direct Reports:** None  
 **Key Internal Relationships:** Minister of Administration, Regular Support Staff, All Church Staff  

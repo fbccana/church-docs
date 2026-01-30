@@ -99,6 +99,10 @@ Maintains comprehensive church financial records, processes receipts and disburs
 - Submit all government reports on time and without penalties
 - Maintain complete confidentiality of financial and donor information
 
+## Schedule Information
+
+Monday–Wednesday (primary work days); Sunday morning presence required for offering collection and deposits. Additional days/hours as needed for month-end close and annual reporting.
+
 ## Reporting Relationships
 
 **Direct Reports:** None  

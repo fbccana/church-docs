@@ -15,9 +15,12 @@
 - New job files: copy `docs/jobs/job-template.md` and save under `docs/jobs/<category>/job-<category>-<slug>.md` (e.g., `job-support-flc-one.md`).
 - Metadata: maintain the metadata block/table (Department, Reports To, FLSA Status, Employment Type, Date). Update `Date` on edits.
 - Conventions to preserve:
-  - Time allocations commonly use 40/35/25 split for Primary/Secondary/Additional duties.
+  - Time allocations commonly use 40/35/25 or 35/35/30 split for Primary/Secondary/Additional duties; mirror existing examples when possible (see `job-support-flc-one.md`).
   - Include RACI tables for multi-stakeholder roles where appropriate.
-  - Mark bilingual roles explicitly in Qualifications and Responsibilities.
+  - Mark bilingual roles explicitly in Qualifications and Responsibilities (e.g., `job-support-clerk.md`, `job-support-media.md`).
+  - Use full date format `December 17, 2025` for the `Date` metadata field across files for consistency.
+  - Add a `Schedule Information` section for roles with regular schedules; for temporary/as-needed roles, state `Temporary / As-needed` and note on-call expectations.
+  - Financial roles must include a `Critical Internal Controls` or equivalent section describing dual authorization, segregation of duties, reconciliation, and bonding requirements (see `job-support-financial.md`).
 - Navigation: when adding/removing files, update `mkdocs.yml` nav (see the Jobs → Support section as the pattern). Run `mkdocs serve` to verify the nav and links.
 
 ## QA checklist before opening a PR ✅

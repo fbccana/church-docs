@@ -8,7 +8,7 @@ title: Church Secretary
 | **Reports To** | Pastor and Minister of Administration |
 | **FLSA Status**| Non-Exempt                         |
 | **Employment** | Full-time                          |
-| **Date**       | December 2025                      |
+| **Date**       | December 17, 2025                  |
 
 ## Position Summary
 
@@ -94,6 +94,11 @@ Serves as the primary administrative support for pastoral staff and church opera
 - Process new member information within 48 hours of decision
 - Maintain professional, Christ-like demeanor in all interactions
 - Support staff meetings and church events as scheduled
+
+## Schedule Information
+
+Monday–Friday – [8:00AM–5:00PM]  
+Occasional evenings and weekends as needed for special events and congregational meetings.
 
 ## Reporting Relationships
 
