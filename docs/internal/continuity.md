@@ -25,7 +25,7 @@ Applies to staff roles that handle time-sensitive or continuity-critical duties 
 - **Church Secretary:** reception/phone coverage, membership DB update, generate a report, add a calendar event.  
 - **Financial Secretary:** prepare a sample reconciliation, demonstrate dual-authorization deposit workflow, generate stewardship report.  
 - **FLC Receptionist:** facility opening/closing checklist, equipment sanitization, visitor check-in, process a reservation.  
-- **Media & Communications:** publish a weekly worship guide draft, update website calendar, prepare bilingual worship slides, demonstrate playback/setup.
+- **Media & Communications:** publish a weekly worship guide draft, prepare bilingual worship slides, demonstrate playback/setup.
 
 ## Recording the Drill
 Use the table below to record each drill. Keep completed entries in this file or in a team-maintained log (Git history provides retention).

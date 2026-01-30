@@ -77,7 +77,7 @@ Serves as the primary administrative support for pastoral staff and church opera
 - Experience with membership database management
 - Knowledge of Baptist church polity and procedures
 - Notary Public certification
-- Social media and website content management experience
+- Familiarity coordinating website and social media content and publication logistics
 - Bilingual proficiency in Spanish for enhanced member service
 
 ## Physical Requirements and Working Conditions
@@ -109,12 +109,15 @@ Occasional evenings and weekends as needed for special events and congregational
 
 ## RACI Chart
 
-| Activity                                          | Responsible      | Accountable                | Consulted | Informed                                       |
-| :------------------------------------------------ | :--------------- | :------------------------- | :-------- | :--------------------------------------------- |
-| Membership & Database Management                  | Church Secretary | Minister of Administration | Ministerial Staff | Pastor, Ministerial Staff                      |
-| Administrative Support                            | Church Secretary | Minister of Administration | Committee Chairs, Minister of Administration | Ministerial Staff, Committee Chairs            |
-| Communications & Outreach Support                 | Church Secretary | Minister of Administration | Pastor, Ministerial Staff | Pastor, Ministerial Staff, Church Body         |
-| Bilingual Support and Hispanic Ministry Assistance| Church Secretary | Minister of Administration | Hispanic Pastor | Hispanic Pastor, Ministerial Staff             |
+| Activity | Responsible | Accountable | Consulted | Informed |
+| :--- | :--- | :--- | :--- | :--- |
+| Membership & Database Management | Church Secretary | Minister of Administration | Finance, Pastoral Staff | Staff |
+| Reception & Administrative Support | Church Secretary / Assigned Backup | Minister of Administration | Volunteers | Staff |
+| Print Publications & Worship Guide | Media Assistant / Church Secretary (joint) | Minister of Administration | Worship Leader, Hispanic Pastor | Congregation |
+| Website & Social Coordination | Media Assistant (content) / Church Secretary (schedule) | Minister of Administration | Pastor, Committee Chairs | Congregation |
+| Committee Minutes & Filing | Committee Secretary → Church Secretary (file) | Committee Chair / Church Secretary | Committee Chairs | Ministerial Staff |
+| Bilingual Translations | Media Assistant (translate) / Church Secretary (verify) | Minister of Administration | Hispanic Pastor | Worship Team |
+| Worship Presentation Support | Media Assistant | Worship Leader | Ministerial Staff | Congregation |
 
 ## Compensation and Benefits
 
