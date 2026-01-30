@@ -40,6 +40,7 @@ Provides comprehensive administrative and logistical support for the church's mu
 - Serve as primary phone receptionist during assigned hours
 - Assist walk-in visitors with information, copies, and general inquiries
 - Provide secretarial support to ministerial staff during busy periods
+- Provide notary public services as requested
 - Maintain attendance lists for special events (Feast 'n Praise, fellowships, Wednesday Night Suppers)
 - Coordinate with church hostess regarding event attendance information
 - Support other administrative staff with overflow duties and special projects

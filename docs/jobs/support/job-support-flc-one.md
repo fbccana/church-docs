@@ -41,6 +41,7 @@ Oversees daily operations of the Family Life Center, providing excellent custome
 - Communicate with office staff and Minister of Administration regarding scheduling and facility inquiries
 - Assist with facility setup for outside entities renting or scheduling when delegated by Minister of Administration
 - Support ministry teams including the clothes closet, food cupboard, and weekly meal program by assisting with setup, supply coordination, and facility access as needed
+- Receive and maintain the prayer request log for hospital visits, surgeries, births, and deaths; notify pastoral staff as needed
 - Document and maintain records of equipment maintenance needs and repairs
 - Report facility issues and safety concerns to Facility Manager
 - Perform general secretarial duties as assigned

@@ -19,29 +19,29 @@ Serves as the primary administrative support for pastoral staff and church opera
 ### Membership & Database Management (35% of time)
 
 - Maintain comprehensive membership database including contact information, service records, baptisms, decisions, and anniversaries
-- Process new members, transfers, and membership changes with 100% accuracy
+- Process new members, transfers, and membership changes with 100% accuracy; provide welcome information and coordinate new member follow-up with the Minister of Administration
 - Generate and distribute membership reports, attendance records, and statistical summaries
-- Update prayer request database for hospital visits, surgeries, births, deaths, and other pastoral concerns
-- Maintain hospital lists, nursing home lists, and Baptist Standard subscription records
-- Coordinate with New Member Shepherding ministry team for member integration
+- Maintain hospital lists and nursing home lists as needed
+- Coordinate new member follow-up and integration with the Minister of Administration
 
 ### Administrative Support (25% of time)
 
 - Serve as primary receptionist, answering phones professionally in English and Spanish and directing calls appropriately
 - Greet visitors warmly in their preferred language, offering hospitality and announcing arrivals to appropriate staff
-- Prepare agendas, take minutes, and maintain records for congregational meetings and committee meetings
-- Coordinate church calendar including facility reservations, event scheduling, and vehicle usage
-- Order and maintain inventory of office, worship, kitchen, and custodial supplies
-- Process mail, prepare correspondence, and assist with ministerial communications
+- Prepare agendas, take minutes, and maintain records for weekly staff meetings; the Financial Secretary prepares minutes for congregational meetings. Committee secretaries should follow committee guidelines (see `docs/committees/committee-guidelines.md`); the Support Clerk will scan and file committee minutes when forwarded.
+- Coordinate church calendar including facility reservations and event scheduling as directed
+- Order and maintain inventory of office and worship supplies; maintain vendor contacts and reorder schedules
+- Process mail, prepare correspondence, send church communications via email, text, and church app messages, and assist with ministerial communications
+- Interact with committees to provide office support (copying, document preparation) as assigned by the Minister of Administration
+- Serve as cross-trained backup for the Media & Communications Assistant for weekly newsletter and worship presentation support
 
 ### Communications & Outreach Support (20% of time)
 
-- Design and publish weekly prayer guides and upload to church website
-- Prepare and distribute newsletters and church communications
-- Assist with worship service media preparation including slides and bulletins
+- Coordinate and send church communications via email, text, and the church app messaging system; the Media & Communications Assistant prepares the weekly newsletter (church bulletins)
 - Maintain visitor information systems including welcome gifts and follow-up materials
 - Support outreach programs and coordinate visitor processing activities
 - Prepare birthday cards, sympathy cards, and new birth acknowledgments
+- Assist with worship series presentations and slides as needed (in most cases the minister or pastor will handle this; responsibility may change depending on pastoral direction)
 
 ### Bilingual Support and Hispanic Ministry Assistance (5% of time)
 
@@ -54,7 +54,6 @@ Serves as the primary administrative support for pastoral staff and church opera
 - Assist with funeral arrangements and bereavement ministry coordination
 - Support Lord's Supper preparation and ministry team coordination
 - Arrange travel for church trips and staff conferences
-- Provide notary public services as needed
 
 ## Qualifications
 
@@ -90,7 +89,6 @@ Serves as the primary administrative support for pastoral staff and church opera
 
 - Maintain membership database accuracy rate of 98% or higher
 - Respond to phone calls and visitor inquiries within one business day
-- Complete weekly prayer guide publication without errors
 - Process new member information within 48 hours of decision
 - Maintain professional, Christ-like demeanor in all interactions
 - Support staff meetings and church events as scheduled
