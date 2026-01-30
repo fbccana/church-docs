@@ -12,59 +12,52 @@ title: Media & Communications Assistant
 
 ## Position Summary
 
-Develops and executes bilingual church communications strategy through digital media, print publications, and visual content creation to effectively communicate the church's mission, vision, and ministry activities to English and Spanish-speaking members and the broader community.
+Creates bilingual digital and print graphics to support church communications and ministry activities. Coordinates content with ministerial staff (content owners) and the Church Secretary for publication logistics. Focuses on image and print production rather than social media management or website administration.
 
 ## Essential Functions and Responsibilities
 
-### Digital Communications and Website Management (30% of time)
+### Digital Media & Asset Production (30% of time)
 
-- Maintain and update church website with current calendar, ministry information, and promotional content in English and Spanish
-- Manage all church social media accounts with engaging, ministry-focused content for both language communities
-- Produce weekly electronic newsletters with ministry updates and announcements in both languages
-- Create basic video announcements and promotional content (volunteer handles advanced editing)
-- Organize and maintain comprehensive digital media archive system
-- Monitor online engagement and optimize content for maximum reach across cultural communities
+- Create bilingual images and visual assets for digital and print use based on content supplied by ministerial staff
+- Maintain an organized digital asset library and ensure files are available to the Church Secretary and ministry leaders
+- Assist volunteers with basic media tasks when requested; advanced video production and social media posting are handled by volunteers and ministerial staff respectively
+- Support simple translation and adaptation for Spanish-language materials
 
 ### Print Publications and Graphic Design (30% of time)
 
-- Design, produce, and distribute weekly worship guides in collaboration with ministerial staff for both English and Spanish services
-- Create monthly church calendar with accurate event information in both languages and appealing layout
-- Develop bilingual graphic designs and visual elements for all church communications
-- Produce newsletters, promotional materials, and event advertisements for diverse cultural audiences
-- Coordinate bulk mailing preparation and postal delivery for bilingual materials
-- Design posters, banners, and promotional materials for major church functions and Hispanic ministry events
+- Design and prepare weekly bilingual worship guides (English & Spanish); deliver final English files to the external printer and coordinate delivery with the Church Secretary; print Spanish guides in-house as required
+- Create bilingual print materials, posters, and handouts as requested by ministry leaders
+- Coordinate printing logistics with the Church Secretary and external vendors; the Church Secretary manages ordering and distribution processes
+- Maintain consistent bilingual design templates and brand assets for print use
 
 ### Hispanic Ministry and Bilingual Communications Support (25% of time)
 
-- Provide dedicated communications support to Hispanic Pastor for all ministry activities and events
-- Translate and adapt content for Spanish-speaking congregation while maintaining cultural sensitivity
-- Develop Spanish-language social media content that resonates with Hispanic community
-- Create promotional materials for Hispanic ministry events, Bible studies, and outreach programs
-- Assist with Hispanic fellowship communications, including Lord's Supper coordination and special celebrations
-- Support bilingual worship services and special events with appropriate media materials
+- Translate and adapt provided content for the Spanish-speaking congregation, maintaining cultural sensitivity
+- Create bilingual promotional and worship materials as requested by the Hispanic Pastor or ministry leaders
+- Coordinate with volunteers who handle worship presentations and lyrics for the Hispanic congregation when support is needed
+- Support bilingual event materials and signage as requested
 
 ### Worship Service Media Support and Administrative Duties (15% of time)
 
-- Prepare bilingual PowerPoint presentations for worship services with scripture, lyrics, and announcements
-- Collaborate with ministerial staff on worship guide content and layout for both services
-- Provide backup reception coverage when primary receptionist is unavailable
-- Assist with general office duties and administrative tasks as assigned
-- Order office equipment and supplies related to media production
-- Prepare annual media budget recommendations
-- Coordinate with external vendors for printing and advertising services
+- Assist volunteers and ministry staff with basic presentation support when requested; volunteers handle primary presentation and lyric duties
+- Collaborate with ministerial staff on worship guide content and layout; deliver final files to the Church Secretary for printing and distribution
+- Provide backup reception coverage when requested and assist with administrative tasks as assigned
+- Coordinate repair or maintenance requests for media equipment and provide vendor contact information to the Church Secretary; the Church Secretary handles purchase orders and vendor payments
 
 ## Qualifications
 
 ### Required
 
-- Bachelor's degree in Communications, Marketing, Graphic Design, or related field
-- Minimum 3 years of experience in media production, communications, or related work
+- High school diploma or equivalent; willingness and ability to learn on the job
 - Demonstrates personal salvation through faith in Jesus Christ with mature Christian testimony
-- Proficiency in graphic design software (Adobe Creative Suite or similar)
-- Experience with website management and content management systems
-- Social media management skills across multiple platforms
-- Video editing and production capabilities
+- Basic proficiency with graphic design or image-editing tools (training provided as needed)
 - Strong written and verbal communication skills
+
+### Preferred
+
+- Experience with graphic design software (Adobe Creative Suite or similar)
+- Prior experience in church or non-profit communications (helpful but not required)
+- Bilingual proficiency in Spanish for enhanced member service
 
 ### Preferred
 
@@ -86,12 +79,11 @@ Develops and executes bilingual church communications strategy through digital m
 
 ## Performance Expectations
 
-- Maintain church website with current information and zero broken links
-- Publish weekly worship guides and newsletters without errors and on schedule
-- Achieve growing engagement metrics on social media platforms
-- Complete video projects within established deadlines
-- Maintain organized digital asset library with proper file management
-- Support worship services without technical delays or issues
+- Deliver final worship guide files to the Church Secretary and external printer (English) by Wednesday 5:00 PM each week; maintain Spanish guide production schedule for in-house printing
+- Ensure bilingual materials are accurate and culturally appropriate
+- Respond to media or content requests within 3 business days and prioritize urgent worship/service requests
+- Maintain an organized digital asset library and proper file naming/version control
+- Support worship services and volunteer media teams without technical delays or issues
 
 ## Schedule Information
 
@@ -134,10 +126,10 @@ Hourly wage and benefits eligibility as determined by Personnel Committee and ap
 
 ## Equipment and Technology Requirements
 
-- Software Proficiency: Adobe Creative Suite, Microsoft Office, website CMS, social media platforms
-- Hardware: Digital cameras, video equipment, computer workstation, printing equipment
-- Technical Skills: Basic understanding of web hosting, email marketing, and digital file management
-- Creative Tools: Access to stock photography, design templates, and multimedia resources
+- Software Proficiency: Adobe Creative Suite or similar image-editing tools, Microsoft Office, basic digital asset management
+- Hardware: Access to digital cameras, computer workstation, and printing equipment as needed
+- Technical Skills: Basic file management and export best practices for print and digital
+- Coordinate media equipment purchases and vendor repairs with the Church Secretary; the Church Secretary handles purchase orders and vendor payments
 
 ## Key Success Factors
 
