@@ -126,6 +126,9 @@ Position salary and benefits package as determined by Personnel Committee and ap
 - Subject to successful completion of criminal background check, financial background check, and drug screening
 - Compliance with all established church policies and procedures required
 - Ensure at least one trained backup for primary administrative duties and participate in quarterly handover drills to verify continuity
+
+**Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core duties (reception/phone coverage, membership database updates, sample report generation, and calendar or scheduling tasks) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
+
 - Regular attendance at staff meetings as requested
 - At-will employment relationship
 
