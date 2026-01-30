@@ -60,6 +60,7 @@ Provides temporary reception and administrative support services when regular su
 - Maintain professional, welcoming demeanor with all church contacts
 - Handle routine inquiries efficiently and refer complex matters appropriately
 - Demonstrate reliability when called upon for substitute duties
+- Respond to on-call assignments within 2 hours of notification and be onsite within agreed response window
 - Preserve confidentiality of church information and member communications
 - Support smooth church office operations during regular staff absences
 
@@ -76,8 +77,8 @@ Temporary / As-needed basis; schedule varies by staffing needs and is assigned o
 
 | Activity                        | Responsible             | Accountable                | Consulted | Informed                           |
 | :------------------------------ | :---------------------- | :------------------------- | :-------- | :--------------------------------- |
-| Reception & Visitor Assistance  | Substitute Receptionist | Minister of Administration | TBD       | Ministerial Staff, Support Staff   |
-| Clerical & Administrative Tasks | Substitute Receptionist | Minister of Administration | TBD       | Ministerial Staff, Support Staff   |
+| Reception & Visitor Assistance  | Substitute Receptionist | Minister of Administration | Assigned by Minister of Administration | Ministerial Staff, Support Staff   |
+| Clerical & Administrative Tasks | Substitute Receptionist | Minister of Administration | Assigned by Minister of Administration | Ministerial Staff, Support Staff   |
 
 ## Compensation and Benefits
 Hourly wage for actual hours worked as determined by Personnel Committee and approved in annual church budget.

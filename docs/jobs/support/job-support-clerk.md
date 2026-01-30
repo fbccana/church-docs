@@ -110,10 +110,10 @@ Occasional evenings and weekends as needed for special events and congregational
 
 | Activity                                          | Responsible      | Accountable                | Consulted | Informed                                       |
 | :------------------------------------------------ | :--------------- | :------------------------- | :-------- | :--------------------------------------------- |
-| Membership & Database Management                  | Church Secretary | Minister of Administration | TBD       | Pastor, Ministerial Staff                      |
-| Administrative Support                            | Church Secretary | Minister of Administration | TBD       | Ministerial Staff, Committee Chairs            |
-| Communications & Outreach Support                 | Church Secretary | Minister of Administration | TBD       | Pastor, Ministerial Staff, Church Body         |
-| Bilingual Support and Hispanic Ministry Assistance| Church Secretary | Minister of Administration | TBD       | Hispanic Pastor, Ministerial Staff             |
+| Membership & Database Management                  | Church Secretary | Minister of Administration | Assigned by Minister of Administration | Pastor, Ministerial Staff                      |
+| Administrative Support                            | Church Secretary | Minister of Administration | Assigned by Minister of Administration | Ministerial Staff, Committee Chairs            |
+| Communications & Outreach Support                 | Church Secretary | Minister of Administration | Assigned by Minister of Administration | Pastor, Ministerial Staff, Church Body         |
+| Bilingual Support and Hispanic Ministry Assistance| Church Secretary | Minister of Administration | Assigned by Minister of Administration | Hispanic Pastor, Ministerial Staff             |
 
 ## Compensation and Benefits
 

@@ -99,9 +99,9 @@ Both positions perform identical duties and responsibilities
 
 | Activity                             | Responsible       | Accountable                | Consulted | Informed                             |
 | :----------------------------------- | :---------------- | :------------------------- | :-------- | :----------------------------------- |
-| Facility Operations Management       | FLC Receptionist  | Minister of Administration | TBD       | Custodial Staff, FLC Members         |
-| Customer Service and Reception       | FLC Receptionist  | Minister of Administration | TBD       | Ministerial Staff, Church Body       |
-| Administrative and Coordination Duties | FLC Receptionist  | Minister of Administration | TBD       | Support Staff, Committee Chairs      |
+| Facility Operations Management       | FLC Receptionist  | Minister of Administration | Assigned by Minister of Administration | Custodial Staff, FLC Members         |
+| Customer Service and Reception       | FLC Receptionist  | Minister of Administration | Assigned by Minister of Administration | Ministerial Staff, Church Body       |
+| Administrative and Coordination Duties | FLC Receptionist  | Minister of Administration | Assigned by Minister of Administration | Support Staff, Committee Chairs      |
 
 ## Compensation and Benefits
 

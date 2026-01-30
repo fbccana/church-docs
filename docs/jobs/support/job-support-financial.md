@@ -118,10 +118,10 @@ Monday–Wednesday (primary work days); Sunday morning presence required for off
 
 | Activity                            | Responsible         | Accountable                | Consulted | Informed                                  |
 | :---------------------------------- | :------------------ | :------------------------- | :-------- | :---------------------------------------- |
-| Weekly Financial Operations         | Financial Secretary | Minister of Administration | TBD       | Finance Committee, Church Treasurer       |
-| Monthly Financial Reporting         | Financial Secretary | Minister of Administration | TBD       | Finance Committee, Deacons, Church Body   |
-| Payroll and Accounts Payable        | Financial Secretary | Minister of Administration | TBD       | Personnel Committee                       |
-| Government Compliance & Annual Duties | Financial Secretary | Minister of Administration | TBD       | Finance Committee, Church Treasurer       |
+| Weekly Financial Operations         | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Finance Committee, Church Treasurer       |
+| Monthly Financial Reporting         | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Finance Committee, Deacons, Church Body   |
+| Payroll and Accounts Payable        | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Personnel Committee                       |
+| Government Compliance & Annual Duties | Financial Secretary | Minister of Administration | Assigned by Minister of Administration | Finance Committee, Church Treasurer       |
 
 ## Compensation and Benefits
 
