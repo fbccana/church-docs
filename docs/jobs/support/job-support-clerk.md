@@ -29,7 +29,7 @@ Serves as the primary administrative support for pastoral staff and church opera
 
 - Serve as primary receptionist, answering phones professionally in English and Spanish and directing calls appropriately
 - Greet visitors warmly in their preferred language, offering hospitality and announcing arrivals to appropriate staff
-- Prepare agendas, take minutes, and maintain records for weekly staff meetings; the Financial Secretary prepares minutes for congregational meetings. Committee secretaries should follow committee guidelines (see `docs/committees/committee-guidelines.md`); the Support Clerk will scan and file committee minutes when forwarded.
+- Prepare agendas, take minutes, and maintain records for weekly staff meetings; the Financial Secretary prepares minutes for congregational meetings. Committee secretaries should follow committee guidelines (see `docs/committees/committee-guidelines.md`); the Church Secretary will scan and file committee minutes when forwarded.
 - Coordinate church calendar including facility reservations and event scheduling as directed
 - Order and maintain inventory of office and worship supplies; maintain vendor contacts and reorder schedules
 - Process mail, prepare correspondence, and assist with ministerial communications

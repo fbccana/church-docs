@@ -6,10 +6,10 @@ This document describes expected procedures for church committees, with emphasis
 ## Committee Secretary — Core Responsibilities
 - Take clear minutes at every committee meeting using the committee minute template (store templates in shared drive or ask the Minister of Administration for the current template).
 - Record attendance, motions (including mover and seconder), voting results, and action items with responsible party and target dates.
-- After each meeting, send finalized minutes (PDF preferred) to: the committee chair, the Minister of Administration, and the Support Clerk (email or via shared drive) within 5 business days.
+- After each meeting, send finalized minutes (PDF preferred) to: the committee chair, the Minister of Administration, and the Church Secretary (email or via shared drive) within 5 business days.
 - Maintain an ongoing archive of committee minutes and documents for the committee chair and submit any records retention requests to the Minister of Administration.
 
-## Support Clerk — Receiving & Filing
+## Church Secretary — Receiving & Filing
 - Scan and file committee minutes (as received) into the central records archive and update the committee index.
 - Notify the committee chair and Minister of Administration when minutes are received and indicate if any follow-up is required (missing signatures, unclear action items).
 - Follow the records retention policy for committee materials (see Records & Retention section below).
@@ -26,7 +26,7 @@ This document describes expected procedures for church committees, with emphasis
 ## Templates & Tools
 - Committee Agenda Template: [link or store location]  
 - Committee Minutes Template: [link or store location]  
-- Use the Support Clerk as the primary contact for file submission and archiving questions.
+- Use the Church Secretary as the primary contact for file submission and archiving questions.
 
 ## Escalation
 - If there is a policy question, unresolved financial concern, or governance matter, the committee chair should escalate to the Minister of Administration or Personnel Committee depending on issue type.
