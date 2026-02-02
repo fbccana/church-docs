@@ -8,7 +8,7 @@ title: Church Secretary
 | **Reports To** | Pastor and Minister of Administration |
 | **FLSA Status**| Non-Exempt                         |
 | **Employment** | Full-time                          |
-| **Date**       | December 2025                      |
+| **Date**       | December 17, 2025                  |
 
 ## Position Summary
 
@@ -19,31 +19,33 @@ Serves as the primary administrative support for pastoral staff and church opera
 ### Membership & Database Management (35% of time)
 
 - Maintain comprehensive membership database including contact information, service records, baptisms, decisions, and anniversaries
-- Process new members, transfers, and membership changes with 100% accuracy
+- Process new members, transfers, and membership changes with 100% accuracy  
+- Provide welcome information to visitors and guests
 - Generate and distribute membership reports, attendance records, and statistical summaries
-- Update prayer request database for hospital visits, surgeries, births, deaths, and other pastoral concerns
-- Maintain hospital lists, nursing home lists, and Baptist Standard subscription records
-- Coordinate with New Member Shepherding ministry team for member integration
+- Maintain hospital lists and nursing home lists as needed
+- Coordinate new member follow-up and integration with the Minister of Administration
 
-### Administrative Support (25% of time)
+### Administrative Support (30% of time)
 
 - Serve as primary receptionist, answering phones professionally in English and Spanish and directing calls appropriately
 - Greet visitors warmly in their preferred language, offering hospitality and announcing arrivals to appropriate staff
-- Prepare agendas, take minutes, and maintain records for congregational meetings and committee meetings
-- Coordinate church calendar including facility reservations, event scheduling, and vehicle usage
-- Order and maintain inventory of office, worship, kitchen, and custodial supplies
+- Prepare agendas, take minutes, and maintain records for weekly staff meetings; the Financial Secretary prepares minutes for congregational meetings. Committee secretaries should follow committee guidelines (see `docs/committees/committee-guidelines.md`); the Church Secretary will scan and file committee minutes when forwarded.
+- Coordinate church calendar including facility reservations and event scheduling as directed
+- Order and maintain inventory of office and worship supplies; maintain vendor contacts and reorder schedules
 - Process mail, prepare correspondence, and assist with ministerial communications
+- Interact with committees to provide office support (copying, document preparation) as assigned by the Minister of Administration
+- Serve as cross-trained backup for the Media & Communications Assistant for weekly newsletter and worship presentation support
 
-### Communications & Outreach Support (20% of time)
+### Communications & Outreach Support (25% of time)
 
-- Design and publish weekly prayer guides and upload to church website
-- Prepare and distribute newsletters and church communications
-- Assist with worship service media preparation including slides and bulletins
+- Coordinate and send church communications (brief notices and urgent messages) via email, text, and the church app messaging system; the Media & Communications Assistant prepares the weekly newsletter (church bulletins)
 - Maintain visitor information systems including welcome gifts and follow-up materials
 - Support outreach programs and coordinate visitor processing activities
 - Prepare birthday cards, sympathy cards, and new birth acknowledgments
+- Assist with worship series presentations and slides as needed (in most cases the minister or pastor will handle this; responsibility may change depending on pastoral direction)
+- Act as distribution owner for church-wide communications and coordinate with Media for newsletter distribution
 
-### Bilingual Support and Hispanic Ministry Assistance (5% of time)
+### Bilingual Support & Cross-Training (10% of time)
 
 - Provide backup support to Hispanic Pastor when Media Assistant is unavailable
 - Assist Spanish-speaking members and visitors with basic inquiries and directions
@@ -54,7 +56,7 @@ Serves as the primary administrative support for pastoral staff and church opera
 - Assist with funeral arrangements and bereavement ministry coordination
 - Support Lord's Supper preparation and ministry team coordination
 - Arrange travel for church trips and staff conferences
-- Provide notary public services as needed
+- Participate in regular cross-training with Media & Communications to maintain backup readiness and perform scheduled backup duties as assigned
 
 ## Qualifications
 
@@ -67,7 +69,7 @@ Serves as the primary administrative support for pastoral staff and church opera
 - Excellent written and verbal communication skills in English
 - Strong organizational and multitasking abilities
 - Professional phone etiquette and customer service skills
-- Basic conversational Spanish proficiency preferred for member assistance
+- Conversational Spanish proficiency preferred for member assistance
 
 ### Preferred
 
@@ -75,7 +77,7 @@ Serves as the primary administrative support for pastoral staff and church opera
 - Experience with membership database management
 - Knowledge of Baptist church polity and procedures
 - Notary Public certification
-- Social media and website content management experience
+- Familiarity coordinating website and social media content and publication logistics
 - Bilingual proficiency in Spanish for enhanced member service
 
 ## Physical Requirements and Working Conditions
@@ -90,10 +92,14 @@ Serves as the primary administrative support for pastoral staff and church opera
 
 - Maintain membership database accuracy rate of 98% or higher
 - Respond to phone calls and visitor inquiries within one business day
-- Complete weekly prayer guide publication without errors
 - Process new member information within 48 hours of decision
 - Maintain professional, Christ-like demeanor in all interactions
 - Support staff meetings and church events as scheduled
+
+## Schedule Information
+
+Monday–Friday – [8:00AM–5:00PM]  
+Occasional evenings and weekends as needed for special events and congregational meetings.
 
 ## Reporting Relationships
 
@@ -103,12 +109,15 @@ Serves as the primary administrative support for pastoral staff and church opera
 
 ## RACI Chart
 
-| Activity                                          | Responsible      | Accountable                | Consulted | Informed                                       |
-| :------------------------------------------------ | :--------------- | :------------------------- | :-------- | :--------------------------------------------- |
-| Membership & Database Management                  | Church Secretary | Minister of Administration | TBD       | Pastor, Ministerial Staff                      |
-| Administrative Support                            | Church Secretary | Minister of Administration | TBD       | Ministerial Staff, Committee Chairs            |
-| Communications & Outreach Support                 | Church Secretary | Minister of Administration | TBD       | Pastor, Ministerial Staff, Church Body         |
-| Bilingual Support and Hispanic Ministry Assistance| Church Secretary | Minister of Administration | TBD       | Hispanic Pastor, Ministerial Staff             |
+| Activity | Responsible | Accountable | Consulted | Informed |
+| :--- | :--- | :--- | :--- | :--- |
+| Membership & Database Management | Church Secretary | Minister of Administration | Finance, Pastoral Staff | Staff |
+| Reception & Administrative Support | Church Secretary / Assigned Backup | Minister of Administration | Volunteers | Staff |
+| Print Publications & Worship Guide | Media Assistant / Church Secretary (joint) | Minister of Administration | Worship Leader, Hispanic Pastor | Congregation |
+| Website & Social Coordination | Media Assistant (content) / Church Secretary (schedule) | Minister of Administration | Pastor, Committee Chairs | Congregation |
+| Committee Minutes & Filing | Committee Secretary → Church Secretary (file) | Committee Chair / Church Secretary | Committee Chairs | Ministerial Staff |
+| Bilingual Translations | Media Assistant (translate) / Church Secretary (verify) | Minister of Administration | Hispanic Pastor | Worship Team |
+| Worship Presentation Support | Media Assistant | Worship Leader | Ministerial Staff | Congregation |
 
 ## Compensation and Benefits
 
@@ -120,6 +129,10 @@ Position salary and benefits package as determined by Personnel Committee and ap
 - Two weeks' notice required for resignation unless otherwise mutually agreed
 - Subject to successful completion of criminal background check, financial background check, and drug screening
 - Compliance with all established church policies and procedures required
+- Ensure at least one trained backup for primary administrative duties and participate in quarterly handover drills to verify continuity
+
+**Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core duties (reception/phone coverage, membership database updates, sample report generation, and calendar or scheduling tasks) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
+
 - Regular attendance at staff meetings as requested
 - At-will employment relationship
 

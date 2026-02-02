@@ -16,30 +16,34 @@ Oversees daily operations of the Family Life Center, providing excellent custome
 
 ## Essential Functions and Responsibilities
 
-### Facility Operations Management (40% of time)
+### Facility Operations Management (35% of time)
 
 - Open Family Life Center each morning, ensuring lights are activated and facility is ready for use
-- Monitor and maintain all exercise equipment in proper working condition
-- Coordinate with custodial staff to ensure facility cleanliness and equipment functionality
+- Monitor equipment usage to ensure the safety of members and guests
+- Coordinate with custodial staff to ensure facility cleanliness
 - Perform equipment sanitization 1-2 times daily using approved cleaning protocols
-- Maintain inventory and restock supplies (towels, coffee pods, water, hand sanitizer, soap)
+- Receive, stock, and maintain inventory of paper products, cleaning supplies, and food supplies; coordinate with kitchen staff on food supply needs
 - Ensure proper laundering and rotation of facility towels and linens
 
 ### Customer Service and Reception (35% of time)
 
 - Greet members and guests professionally, creating welcoming atmosphere
-- Operate computer check-in system to accurately record member and associate facility usage
+- Maintain visitor log book by ensuring guests sign in with name and time of entry
+- Monitor surveillance cameras throughout the facility
+- Operate access control system to grant building access to authorized members and guests
 - Answer telephone inquiries and provide information about FLC services and programs
 - Assist visitors with facility orientation and equipment usage guidelines
 - Handle member concerns and facility-related questions promptly and courteously
 
-### Administrative and Coordination Duties (25% of time)
+### Administrative and Coordination Duties (30% of time)
 
-- Coordinate FLC facility reservations using church calendar system
-- Communicate with office staff and Minister of Administration regarding scheduling conflicts
-- Process facility rental requests for birthdays, special events, and community functions
-- Maintain accurate records of facility usage and equipment maintenance needs
-- Report facility issues, equipment malfunctions, or safety concerns to appropriate supervisors
+- Receive facility rental and usage requests and forward them to the Church Secretary for processing
+- Communicate with office staff and Minister of Administration regarding scheduling and facility inquiries
+- Assist with facility setup for outside entities renting or scheduling when delegated by Minister of Administration
+- Support ministry teams including the clothes closet, food cupboard, and weekly meal program by assisting with setup, supply coordination, and facility access as needed
+- Receive and maintain the prayer request log for hospital visits, surgeries, births, and deaths; notify pastoral staff as needed
+- Document and maintain records of equipment maintenance needs and repairs
+- Report facility issues and safety concerns to Facility Manager
 - Perform general secretarial duties as assigned
 
 ## Qualifications
@@ -94,11 +98,12 @@ Both positions perform identical duties and responsibilities
 
 ## RACI Chart
 
-| Activity                             | Responsible       | Accountable                | Consulted | Informed                             |
-| :----------------------------------- | :---------------- | :------------------------- | :-------- | :----------------------------------- |
-| Facility Operations Management       | FLC Receptionist  | Minister of Administration | TBD       | Custodial Staff, FLC Members         |
-| Customer Service and Reception       | FLC Receptionist  | Minister of Administration | TBD       | Ministerial Staff, Church Body       |
-| Administrative and Coordination Duties | FLC Receptionist  | Minister of Administration | TBD       | Support Staff, Committee Chairs      |
+| Activity | Responsible | Accountable | Consulted | Informed |
+| :--- | :--- | :--- | :--- | :--- |
+| Facility Operations Management | FLC Receptionist / Assigned Backup | Minister of Administration | Custodial Staff, Building Supervisor | Support Staff, FLC Members |
+| Customer Service & Reception | FLC Receptionist / Assigned Backup | Minister of Administration | Ministerial Staff | Church Body |
+| Administrative & Coordination Duties | FLC Receptionist | Minister of Administration | Support Staff, Committee Chairs | Ministerial Staff, Committee Chairs |
+| Event Reservation & Scheduling | FLC Receptionist / Church Secretary (joint) | Minister of Administration | Event Organizers, Building Supervisor | Congregation |
 
 ## Compensation and Benefits
 
@@ -111,6 +116,9 @@ Hourly wage funded through designated support staff budget as determined by chur
 - Work schedule and hours as agreed upon with Minister of Community Outreach
 - Compliance with all established church policies, safety procedures, and FLC guidelines required
 - Reliable attendance essential due to facility security and member service requirements
+
+**Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core FLC duties (facility opening/closing checklist, equipment sanitization, visitor check-in and access control, and process a sample facility reservation) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
+
 - At-will employment relationship
 
 !!! info "Reasonable Accommodations"
