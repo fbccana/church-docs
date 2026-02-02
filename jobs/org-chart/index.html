@@ -1319,46 +1319,31 @@
 
   <h1>Org chart</h1>
 
-<p>graph TD
-    %% Top Governance
-    PC[Personnel Committee] --&gt; SP[Senior Pastor]
-    CO[Corporate Officers] --&gt; SP</p>
-<pre><code>%% Ministerial Staff (Direct Reports to Senior Pastor)
-SP --&gt; Admin[Admin]
-SP --&gt; Music[Music]
-SP --&gt; Youth[Youth]
-SP --&gt; Children[Children]
-SP --&gt; HP[Hispanic Pastor]
-
-%% Support Staff - All Primary Reports to Admin (solid lines)
-Admin --&gt; CS[Church Sec]
-Admin --&gt; FS[Financial Sec]
-Admin --&gt; MS[Music Sec]
-Admin --&gt; FLC1[FLC One]
-Admin --&gt; FLC2[FLC Two]
-Admin --&gt; Media[Media Sec]
-Admin --&gt; FM[Facility Mgr]
-Admin --&gt; MC[Main Custodian]
-Admin --&gt; CC[Child Custodian]
-Admin --&gt; FC[FLC Custodian]
-
-%% Program Staff - Primary to relevant ministers/support
-Admin --&gt; Kitchen[Kitchen]
-Music --&gt; Pianist[Pianist]
-Music --&gt; Organist[Organist]
-Children --&gt; KDO[KDO]
-Children --&gt; Nursery[Nursery]
-Children --&gt; ASC[ASC]
-
-%% Secondary Support Relationships (dotted lines for functional support)
-MS -.-&gt;|"supports"| Music
-FLC1 -.-&gt;|"supports"| Youth
-FLC2 -.-&gt;|"supports"| Children
-Media -.-&gt;|"supports"| Music
-%% Add more if needed, e.g.:
-%% CS -.-&gt;|"supports"| SP
-%% FS -.-&gt;|"supports"| Admin
-</code></pre>
+<p>Organizational Chart</p>
+<p>├── Personnel Committee
+└── Corporate Officers
+    └── Senior Pastor
+        ├── Admin
+        │   ├── Church Sec          → supports general office
+        │   ├── Financial Sec
+        │   ├── Music Sec           → supports Music
+        │   ├── Media Sec           → supports Music
+        │   ├── FLC One             → supports Youth
+        │   ├── FLC Two             → supports Children
+        │   ├── Facility Mgr
+        │   ├── Main Custodian
+        │   ├── Child Custodian
+        │   ├── FLC Custodian
+        │   └── Kitchen
+        ├── Music
+        │   ├── Pianist
+        │   └── Organist
+        ├── Youth
+        ├── Children
+        │   ├── KDO
+        │   ├── Nursery
+        │   └── ASC
+        └── Hispanic Pastor</p>
 
 
 
