@@ -3,6 +3,7 @@
 ## Organizational Chart
 
 graph TD
+
     %% Top Governance
     PC[Personnel Committee] --> SP[Senior Pastor]
     CO[Corporate Officers] --> SP
