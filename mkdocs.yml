@@ -29,6 +29,14 @@ nav:
       - Lead: jobs/custodial/job-custodial-lead.md
     - Ministerial:
       - Overview: jobs/ministerial/index.md
+      - Administration: jobs/ministerial/job-minister-admin.md
+      - Children: jobs/ministerial/job-minister-children.md
+      - Discipleship: jobs/ministerial/job-minister-discipleship.md
+      - Media: jobs/ministerial/job-minister-media.md
+      - Music: jobs/ministerial/job-minister-music.md
+      - Pastoral Care: jobs/ministerial/job-minister-pastoral-care.md
+      - Youth: jobs/ministerial/job-minister-youth.md
+      - Hispanic Pastor: jobs/ministerial/job-pastor-hispanic.md
     - Program:
       - Overview: jobs/program/index.md
       - Worship: jobs/program/job-support-worship.md
