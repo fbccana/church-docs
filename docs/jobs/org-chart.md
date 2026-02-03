@@ -4,12 +4,12 @@ Organizational Chart
 └── Corporate Officers
     └── Senior Pastor
         ├── Admin
-        │   ├── Church Sec          → supports general office
+        │   ├── Church Sec          → supports Children
         │   ├── Financial Sec
         │   ├── Music Sec           → supports Music
-        │   ├── Media Sec           → supports Music
+        │   ├── Media Sec           → supports Hispanic
         │   ├── FLC One             → supports Youth
-        │   ├── FLC Two             → supports Children
+        │   ├── FLC Two
         │   ├── Facility Mgr
         │   ├── Main Custodian
         │   ├── Child Custodian
