@@ -25,6 +25,11 @@ All policies must be consistent with the Constitution and Bylaws.
 
 ---
 
+## Policy Documents
+
+- [Employee Handbook (Old)](46059408_2_Employee Handbook.md)
+- [FBC Employee Handbook](fbc-employee-handbook.md)
+
 ## Common Policy Areas
 
 - Child and youth protection  

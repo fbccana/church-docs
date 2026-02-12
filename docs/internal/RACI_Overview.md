@@ -4,10 +4,10 @@
 
 RACI is a responsibility assignment matrix that clarifies who does what in processes, projects, or decisions. Each letter represents a distinct role:
 
-- **Responsible**: The person who does the work to complete the task
-- **Accountable**: The person ultimately answerable for the task's completion (only one person)
-- **Consulted**: People whose input is sought before decisions or actions (two-way communication)
-- **Informed**: People who are kept updated on progress or decisions (one-way communication)
+- **Responsible**: The person who does the work or completes the task
+- **Accountable**: The person who signs off and has the "yes/no" power (only one person per task)
+- **Consulted**: The advisor; people whose input is sought before decisions or actions (two-way communication)
+- **Informed**: The bystander; people who are kept updated on progress or decisions (one-way communication)
 
 ## How RACI Works with Job Descriptions
 
@@ -39,3 +39,13 @@ Think of job descriptions as the "what" and RACI as the "who does what with whom
 RACI transforms vague statements into actionable clarity. Instead of "marketing and sales work together on proposals," RACI specifies: Sales is *Accountable* for winning the deal, Marketing is *Responsible* for creating proposal content, Product is *Consulted* for technical specs, and Finance is *Informed* of pricing.
 
 The key insight: you can be involved in many tasks, but your level of involvement varies. RACI makes this explicit, reducing the frustration of unclear boundaries and preventing the common problem where everyone is "responsible" but no one is truly accountable.
+
+## Example RACI Table: (Hiring a New Employee)
+
+| Task                | HR Coordinator | Hiring Manager | CEO | IT  |
+| ------------------- | :------------: | :------------: | :-: | :-: |
+| Post Job Ad         |       R        |       C        |  I  |     |
+| Shortlist CVs       |       R        |       A        |     |     |
+| Conduct Interview   |       C        |       R        |     |     |
+| Extend Offer        |       R        |       A        |  C  |     |
+| Set up Laptop       |       C        |       I        |     |  R  |

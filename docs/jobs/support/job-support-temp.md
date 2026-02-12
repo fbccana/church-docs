@@ -73,14 +73,6 @@ Temporary / As-needed basis; schedule varies by staffing needs and is assigned o
 **Key Internal Relationships:** Minister of Administration, Regular Support Staff, All Church Staff  
 **External Relationships:** Church Members, Visitors, Vendors, Community Contacts
 
-## RACI Chart
-
-| Activity | Responsible | Accountable | Consulted | Informed |
-| :--- | :--- | :--- | :--- | :--- |
-| Reception & Visitor Assistance | Substitute Receptionist / Assigned Backup | Minister of Administration | Church Secretary, Ministerial Staff | Support Staff |
-| Clerical & Administrative Tasks | Substitute Receptionist | Minister of Administration | Assigned Supervisor | Support Staff |
-| On-call Response & Coverage | Substitute Receptionist / Assigned Backup | Minister of Administration | Church Secretary | Ministerial Staff |
-
 ## Compensation and Benefits
 Hourly wage for actual hours worked as determined by Personnel Committee and approved in annual church budget.
 

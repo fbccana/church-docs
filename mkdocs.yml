@@ -21,6 +21,7 @@ nav:
   - Policies: policies/index.md
   - Jobs:
     - Overview: jobs/index.md
+    - Organizational Chart: jobs/org-chart.md
     - Custodial:
       - Overview: jobs/custodial/index.md
       - Children: jobs/custodial/job-custodial-children.md

@@ -88,14 +88,6 @@ Provides comprehensive administrative and logistical support for the church's mu
 **Key Internal Relationships:** Minister of Music, Pastor, other administrative staff, choir members, orchestra members, ministry team leaders  
 **External Relationships:** Music suppliers, equipment vendors, church members requesting recordings
 
-## RACI Chart
-
-| Activity                             | Responsible       | Accountable                | Consulted | Informed                                   |
-| :----------------------------------- | :---------------- | :------------------------- | :-------- | :----------------------------------------- |
-| Music Ministry Support               | Worship Secretary | Minister of Music          | TBD       | Choir Members, Orchestra Members           |
-| Worship Service Coordination         | Worship Secretary | Minister of Music          | TBD       | Pastor, Ministerial Staff, Ministry Teams  |
-| Reception and Administrative Support | Worship Secretary | Minister of Administration | TBD       | Ministerial Staff, Support Staff           |
-
 ## Compensation and Benefits
 
 Hourly wage and benefits eligibility as determined by Personnel Committee and approved in annual church budget.

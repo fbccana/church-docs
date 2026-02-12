@@ -65,14 +65,6 @@ Responsible for the specialized cleaning and maintenance of children's areas and
 **Key Internal Relationships:** Facilities Manager, Lead Custodian, Children's Ministry Staff  
 **External Relationships:** Child-Safe Cleaning Supply Vendors
 
-## RACI Chart
-
-| Activity                                  | Responsible                  | Accountable                | Consulted | Informed                                    |
-| :---------------------------------------- | :--------------------------- | :------------------------- | :-------- | :------------------------------------------ |
-| Children's Area Cleaning & Sanitization   | Custodian - Children/Nursery | Minister of Administration | TBD       | Children's Ministry Staff, Lead Custodian |
-| General Cleaning & Event Setup            | Custodian - Children/Nursery | Minister of Administration | TBD       | Facilities Manager, Ministry Staff        |
-| Event Support & Supply Management         | Custodian - Children/Nursery | Minister of Administration | TBD       | Facilities Manager                          |
-
 ## Compensation and Benefits
 Hourly wage as determined by Personnel Committee and approved in annual church budget. Additional compensation available for wedding assistance per church policy.
 

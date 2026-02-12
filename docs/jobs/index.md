@@ -6,6 +6,15 @@ Clear job descriptions support effective ministry by defining authority, account
 
 ---
 
+## Navigation
+
+- [Organizational Chart](org-chart.md)
+- [Job Description Template](job-template.md)
+- [Custodial Jobs](custodial/index.md)
+- [Ministerial Jobs](ministerial/index.md)
+- [Program Support Jobs](program/index.md)
+- [Support Staff Jobs](support/index.md)
+
 ## Purpose
 
 Job descriptions are provided to:

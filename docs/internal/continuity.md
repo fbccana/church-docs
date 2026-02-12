@@ -47,7 +47,3 @@ Use the table below to record each drill. Keep completed entries in this file or
 - Keep runbooks concise and focused on the “must do” tasks.  
 - Use realistic, repeatable scenarios rather than exhaustive checklists.  
 - Treat drills as opportunities to update docs, not pass/fail audits only.
-
----
-
-If you'd like, I can: (A) add a stub log entry for the recent drills we performed, or (B) insert a short link/reference to this file in each role's `Quarterly Handover Drill` paragraph. Which do you prefer?

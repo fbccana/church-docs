@@ -95,16 +95,6 @@ Primary schedule: Tuesday–Thursday. Flexible hours (evenings and weekends) req
 **Key Internal Relationships:** All ministerial staff, worship team, committee chairs, ministry leaders  
 **External Relationships:** Printing vendors, web hosting services, social media platforms, local media outlets
 
-## RACI Chart
-
-| Activity | Responsible | Accountable | Consulted | Informed |
-| :--- | :--- | :--- | :--- | :--- |
-| Digital Asset Production & Publication Logistics | Media Assistant | Minister of Administration | Church Secretary | Ministerial Staff, Church Body |
-| Print Publications & Worship Guide | Media Assistant / Church Secretary (joint) | Minister of Administration | Worship Leader, Hispanic Pastor | Congregation |
-| Website & Social Coordination | Media Assistant (content) / Church Secretary (schedule) | Minister of Administration | Pastor, Committee Chairs | Congregation |
-| Bilingual Translations | Media Assistant (translate) / Church Secretary (verify) | Minister of Administration | Hispanic Pastor | Worship Team |
-| Worship Presentation Support | Media Assistant | Worship Leader | Ministerial Staff | Congregation |
-
 ## Compensation and Benefits
 
 Hourly wage and benefits eligibility as determined by Personnel Committee and approved in annual church budget.

@@ -74,14 +74,6 @@ Responsible for the general maintenance and cleanliness of the church property, 
 **Key Internal Relationships:** Facilities Manager, Church Secretary, Ministry Staff  
 **External Relationships:** Vendors, Service Contractors
 
-## RACI Chart
-
-| Activity                          | Responsible    | Accountable                | Consulted | Informed                             |
-| :-------------------------------- | :------------- | :------------------------- | :-------- | :----------------------------------- |
-| General Cleaning & Security       | Lead Custodian | Minister of Administration | TBD       | Facilities Manager, Church Secretary |
-| Event Setup & Kitchen Support     | Lead Custodian | Minister of Administration | TBD       | Ministry Staff, Church Hostess       |
-| Event Support & Supply Management | Lead Custodian | Minister of Administration | TBD       | Facilities Manager                   |
-
 ## Compensation and Benefits
 
 Position salary and benefits package as determined by Personnel Committee and approved in annual church budget.

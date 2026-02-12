@@ -120,16 +120,6 @@ Monday–Wednesday (primary work days); Sunday morning presence required for off
 **Key Internal Relationships:** Minister of Administration, Pastor, Finance Committee, Church Treasurer, other administrative staff  
 **External Relationships:** Bank representatives, payroll services, government agencies, vendors
 
-## RACI Chart
-
-| Activity | Responsible | Accountable | Consulted | Informed |
-| :--- | :--- | :--- | :--- | :--- |
-| Weekly Financial Operations | Financial Secretary | Minister of Administration | Church Treasurer, Finance Committee | Staff |
-| Bank Deposits & Dual Authorization | Financial Secretary / Church Treasurer (joint) | Minister of Administration | Finance Committee | Staff |
-| Payroll & Accounts Payable | Financial Secretary | Minister of Administration | Personnel Committee | Staff |
-| Monthly & Annual Financial Reporting | Financial Secretary | Minister of Administration | Finance Committee, Church Treasurer | Deacons, Church Body |
-| Compliance & External Reporting | Financial Secretary | Minister of Administration | Auditor, Legal Counsel | Finance Committee |
-
 ## Compensation and Benefits
 
 Annual salary and benefits package as determined by Personnel Committee and approved in annual church budget.

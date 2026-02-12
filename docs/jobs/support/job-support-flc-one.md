@@ -96,15 +96,6 @@ Both positions perform identical duties and responsibilities
 **Key Internal Relationships:** Minister of Administration, custodial staff, support staff  
 **External Relationships:** Church members, community facility users, various vendors
 
-## RACI Chart
-
-| Activity | Responsible | Accountable | Consulted | Informed |
-| :--- | :--- | :--- | :--- | :--- |
-| Facility Operations Management | FLC Receptionist / Assigned Backup | Minister of Administration | Custodial Staff, Building Supervisor | Support Staff, FLC Members |
-| Customer Service & Reception | FLC Receptionist / Assigned Backup | Minister of Administration | Ministerial Staff | Church Body |
-| Administrative & Coordination Duties | FLC Receptionist | Minister of Administration | Support Staff, Committee Chairs | Ministerial Staff, Committee Chairs |
-| Event Reservation & Scheduling | FLC Receptionist / Church Secretary (joint) | Minister of Administration | Event Organizers, Building Supervisor | Congregation |
-
 ## Compensation and Benefits
 
 Hourly wage funded through designated support staff budget as determined by church leadership and approved in annual budget.
