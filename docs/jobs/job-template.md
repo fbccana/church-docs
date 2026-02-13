@@ -21,22 +21,6 @@ Concise paragraph describing the purpose of the position and its primary contrib
 - List major responsibilities and approximate percentage of time (examples: Primary 35%, Secondary 30%, Additional 25%, Training/Other 10%).
 - Use clear, measurable language and include deadlines or SLAs where applicable (e.g., "deliver worship guide files by Thursday 5:00 PM").
 
-### Primary Responsibilities
-
-- (Top duties ranked by time/importance; include % of time next to each heading.)
-
-### Secondary Responsibilities
-
-- (Supporting duties; include % of time where possible.)
-
-### Additional Responsibilities
-
-- (On-call, seasonal, or situational duties; list as applicable.)
-
-## Schedule Information
-
-- State regular work days/hours, on-call expectations, and any required presence for weekend services or events (e.g., Tuesday–Thursday; Sunday mornings as needed).
-
 ## Qualifications
 
 ### Required
@@ -47,40 +31,12 @@ Concise paragraph describing the purpose of the position and its primary contrib
 
 - (Helpful skills and experience; may include bilingual ability or software familiarity.)
 
-## Physical Requirements and Working Conditions
+## Schedule & Work Environment
 
-- (Include lifting, travel, remote work, and any unusual environment notes.)
+State regular work days/hours, on-call expectations, and any required presence for weekend services or events (e.g., Tuesday–Thursday; Sunday mornings as needed). Include lifting, travel, remote work, and any unusual environment notes.
 
-## Performance Expectations
+## Employment Information
 
-- (Measurable expectations and SLAs – response times, quality metrics, accuracy rates, etc.)
+Compensation, benefits, general employment policies, and reasonable accommodations are detailed in the Employee Handbook.
 
-## Reporting Relationships
-
-**Direct Reports:**  
-**Key Internal Relationships:**  
-**External Relationships:**  
-
-## Quarterly Handover Drill
-
-- Include a brief drill statement and link to the canonical continuity template: see `docs/internal/continuity.md`. Example text: "The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core duties while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration."
-
-## Equipment and Technology Requirements
-
-- (List required software, hardware, and any vendor contacts or licensing needs.)
-
-## Key Success Factors
-
-- (Short list of 4–6 characteristics and outcomes that define success in the role.)
-
-## Compensation and Benefits
-
-Compensation and benefits as determined by the Personnel Committee and approved in the annual church budget.
-
-## Employment Conditions
-
-- (Employment status, notice periods, background checks, confidentiality and compliance clauses.)
-
-## Reasonable Accommodations
-
-First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
+This position continues until terminated by mutual agreement or by request of the Pastor, supervising minister, or Personnel Committee. Two weeks' notice is requested for resignation unless otherwise mutually agreed. Subject to successful completion of required background checks and screenings. Compliance with all established church policies and procedures is required. At-will employment relationship.

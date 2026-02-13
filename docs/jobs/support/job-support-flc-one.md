@@ -18,33 +18,33 @@ Serves as an administrative assistant with primary responsibilities for overseei
 
 ### Facility Operations Management (35% of time)
 
-- Open Family Life Center each morning, ensuring lights are activated and facility is ready for use
-- Monitor equipment usage to ensure the safety of members and guests
-- Coordinate with custodial staff to ensure facility cleanliness
-- Perform equipment sanitization 1-2 times daily using approved cleaning protocols
-- Receive, stock, and maintain inventory of paper products, cleaning supplies, and food supplies; coordinate with kitchen staff on food supply needs
-- Ensure proper laundering and rotation of facility towels and linens
+- Open Family Life Center each morning, ensuring lights are activated and facility is ready for use.
+- Monitor equipment usage to ensure the safety of members and guests.
+- Coordinate with custodial staff to ensure facility cleanliness.
+- Perform equipment sanitization 1-2 times daily using approved cleaning protocols.
+- Receive, stock, and maintain inventory of paper products, cleaning supplies, and food supplies; coordinate with kitchen staff on food supply needs.
+- Ensure proper laundering and rotation of facility towels and linens.
 
 ### Customer Service and Reception (35% of time)
 
-- Greet members and guests professionally, creating welcoming atmosphere
-- Maintain visitor log book by ensuring guests sign in with name and time of entry
-- Monitor surveillance cameras throughout the facility
-- Operate access control system to grant building access to authorized members and guests
-- Answer telephone inquiries and provide information about FLC services and programs
-- Assist visitors with facility orientation and equipment usage guidelines
-- Handle member concerns and facility-related questions promptly and courteously
+- Greet members and guests professionally, creating welcoming atmosphere.
+- Maintain visitor log book by ensuring guests sign in with name and time of entry.
+- Monitor surveillance cameras throughout the facility.
+- Operate access control system to grant building access to authorized members and guests.
+- Answer telephone inquiries and provide information about FLC services and programs.
+- Assist visitors with facility orientation and equipment usage guidelines.
+- Handle member concerns and facility-related questions promptly and courteously.
 
 ### Administrative and Coordination Duties (30% of time)
 
-- Receive facility rental and usage requests and forward them to the Church Secretary for processing
-- Communicate with office staff and Minister of Administration regarding scheduling and facility inquiries
-- Assist with facility setup for outside entities renting or scheduling when delegated by Minister of Administration
-- Support ministry teams including the clothes closet, food cupboard, and weekly meal program by assisting with setup, supply coordination, and facility access as needed
-- Receive and maintain the prayer request log for hospital visits, surgeries, births, and deaths; notify pastoral staff as needed
-- Document and maintain records of equipment maintenance needs and repairs
-- Report facility issues and safety concerns to Facility Manager
-- Perform general secretarial duties as assigned
+- Receive facility rental and usage requests and forward them to the Church Secretary for processing.
+- Communicate with office staff and Minister of Administration regarding scheduling and facility inquiries.
+- Assist with facility setup for outside entities renting or scheduling when delegated by Minister of Administration.
+- Support ministry teams including the clothes closet, food cupboard, and weekly meal program by assisting with setup, supply coordination, and facility access as needed.
+- Receive and maintain the prayer request log for hospital visits, surgeries, births, and deaths; notify pastoral staff as needed.
+- Document and maintain records of equipment maintenance needs and repairs.
+- Report facility issues and safety concerns to Facility Manager.
+- Perform general secretarial duties as assigned.
 
 ## Qualifications
 

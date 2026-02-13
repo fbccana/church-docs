@@ -18,31 +18,31 @@ Serves as an administrative assistant with primary responsibilities for creating
 
 ### Digital Media & Asset Production (30% of time)
 
-- Create bilingual images and visual assets for both digital and print use based on content supplied by ministerial staff; maintain design templates for consistency
-- Maintain an organized digital asset library and ensure files are shared with ministerial and support staff
-- Support simple translation and adaptation for Spanish-language materials
+- Create bilingual images and visual assets for both digital and print use based on content supplied by ministerial staff; maintain design templates for consistency.
+- Maintain an organized digital asset library and ensure files are shared with ministerial and support staff.
+- Support simple translation and adaptation for Spanish-language materials.
 
 ### Print Publications and Graphic Design (30% of time)
 
-- Design and prepare weekly bilingual worship guides (English & Spanish); deliver final English files to the external printer by **Thursday 5:00 PM** each week; prepare Spanish worship guide files for in-house printing by **Friday 5:00 PM**
-- Create bilingual print materials, posters, and handouts as requested by ministry leaders
-- Coordinate printing logistics with the Church Secretary  
-- Maintain vendor contact information for external printing
-- Maintain consistent bilingual design templates and brand assets for print use
+- Design and prepare weekly bilingual worship guides (English & Spanish); deliver final English files to the external printer by **Thursday 5:00 PM** each week; prepare Spanish worship guide files for in-house printing by **Friday 5:00 PM**.
+- Create bilingual print materials, posters, and handouts as requested by ministry leaders.
+- Coordinate printing logistics with the Church Secretary.  
+- Maintain vendor contact information for external printing.
+- Maintain consistent bilingual design templates and brand assets for print use.
 
 ### Hispanic Ministry and Bilingual Communications Support (25% of time)
 
-- Translate and adapt provided content for the Spanish-speaking congregation, maintaining cultural sensitivity
-- Create bilingual promotional and worship materials as requested by the Hispanic Pastor or ministry leaders
-- Support bilingual event materials and signage as requested
+- Translate and adapt provided content for the Spanish-speaking congregation, maintaining cultural sensitivity.
+- Create bilingual promotional and worship materials as requested by the Hispanic Pastor or ministry leaders.
+- Support bilingual event materials and signage as requested.
 
 ### Worship Service Media Support and Administrative Duties (15% of time)
 
-- Collaborate with ministerial staff on worship guide content and layout for both services
-- Provide backup reception coverage when primary receptionist is unavailable
-- Assist with general office duties and administrative tasks as assigned
-- Coordinate with external vendors for printing and advertising services
-- Provide administrative support to Hispanic Pastor and cross-support other ministers and staff as workload demands
+- Collaborate with ministerial staff on worship guide content and layout for both services.
+- Provide backup reception coverage when primary receptionist is unavailable.
+- Assist with general office duties and administrative tasks as assigned.
+- Coordinate with external vendors for printing and advertising services.
+- Provide administrative support to Hispanic Pastor and cross-support other ministers and staff as workload demands.
 
 ## Qualifications
 

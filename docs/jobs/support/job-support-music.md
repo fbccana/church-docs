@@ -18,30 +18,30 @@ Serves as an administrative assistant with primary responsibility for receptioni
 
 ### Receptionist and Guest Services (40% of time)
 
-- Act as the primary phone receptionist, answering calls professionally and directing them to the appropriate staff member
-- Greet office guests warmly, offering assistance and hospitality; help with copies, general information, or directing visitors to the right person
-- Provide administrative support to Minister of Music and cross-support other ministers and staff as workload demands
-- Assist fellow secretaries during busy periods or special projects
-- Maintain lists of attendees for special events and coordinate with the church hostess
+- Act as the primary phone receptionist, answering calls professionally and directing them to the appropriate staff member.
+- Greet office guests warmly, offering assistance and hospitality; help with copies, general information, or directing visitors to the right person.
+- Provide administrative support to Minister of Music and cross-support other ministers and staff as workload demands.
+- Assist fellow secretaries during busy periods or special projects.
+- Maintain lists of attendees for special events and coordinate with the church hostess.
 
 ### Music and Worship Administration (40% of time)
 
-- Prepare rehearsal music and Sunday service folders for choirs, orchestra, and other ensembles
-- Set up rehearsal spaces for orchestra and choir practices
-- Straighten and organize any music left around the facility
-- Maintain attendance and enrollment records for all choirs and prepare monthly attendance summaries for church conference
-- Manage the music library: inventory, record, file, and organize all music
-- Order musical supplies and products as directed
-- Maintain flower dedication lists and contact scheduled participants
-- Assist ministers with planning and execution of major worship services and special events
-- Provide needed music and supplies to choirs
-- Prepare presentation slides for worship services as requested
+- Prepare rehearsal music and Sunday service folders for choirs, orchestra, and other ensembles.
+- Set up rehearsal spaces for orchestra and choir practices.
+- Straighten and organize any music left around the facility.
+- Maintain attendance and enrollment records for all choirs and prepare monthly attendance summaries for church conference.
+- Manage the music library: inventory, record, file, and organize all music.
+- Order musical supplies and products as directed.
+- Maintain flower dedication lists and contact scheduled participants.
+- Assist ministers with planning and execution of major worship services and special events.
+- Provide needed music and supplies to choirs.
+- Prepare presentation slides for worship services as requested.
 
 ### General Administrative Support (20% of time)
 
-- Participate in church staff meetings as requested
-- Provide cross-training and backup support for other administrative roles as needed
-- Assist with general office tasks and special projects assigned by the ministerial staff
+- Participate in church staff meetings as requested.
+- Provide cross-training and backup support for other administrative roles as needed.
+- Assist with general office tasks and special projects assigned by the ministerial staff.
 
 ## Qualifications
 
