@@ -12,7 +12,7 @@ title: Church Secretary
 
 ## Position Summary
 
-Serves as the primary administrative support for pastoral staff and church operations, maintaining membership records, coordinating communications, and providing exceptional customer service to English and Spanish-speaking members and visitors while supporting the mission and vision of First Baptist Church.
+Serves as an administrative assistant with primary responsibilities for church operations, maintaining membership records, coordinating communications, and providing exceptional customer service to English and Spanish-speaking members and visitors while supporting the mission and vision of First Baptist Church.
 
 ## Essential Functions and Responsibilities
 
@@ -27,13 +27,13 @@ Serves as the primary administrative support for pastoral staff and church opera
 
 ### Administrative Support (30% of time)
 
-- Serve as primary receptionist, answering phones professionally in English and Spanish and directing calls appropriately
-- Greet visitors warmly in their preferred language, offering hospitality and announcing arrivals to appropriate staff
-- Prepare agendas, take minutes, and maintain records for weekly staff meetings; the Financial Secretary prepares minutes for congregational meetings. Committee secretaries should follow committee guidelines (see `docs/committees/committee-guidelines.md`); the Church Secretary will scan and file committee minutes when forwarded.
+- Serve as backup receptionist, answering phones professionally in English and Spanish and directing calls appropriately
+- Provide bilingual support for Spanish-speaking members and visitors, greeting them warmly and offering hospitality in their preferred language
+- Prepare agendas, take minutes, and maintain records for weekly staff meetings. Scan and file committee minutes when forwarded
 - Coordinate church calendar including facility reservations and event scheduling as directed
 - Order and maintain inventory of office and worship supplies; maintain vendor contacts and reorder schedules
 - Process mail, prepare correspondence, and assist with ministerial communications
-- Interact with committees to provide office support (copying, document preparation) as assigned by the Minister of Administration
+- Interact with committees to provide office support as assigned by the Minister of Administration
 - Serve as cross-trained backup for the Media & Communications Assistant for weekly newsletter and worship presentation support
 
 ### Communications & Outreach Support (25% of time)
@@ -62,13 +62,12 @@ Serves as the primary administrative support for pastoral staff and church opera
 
 ### Required
 
-- Bachelor's degree in Business Administration, Communications, or related field
 - Minimum 3 years of administrative or secretarial experience
 - Demonstrates personal salvation through faith in Jesus Christ with mature Christian testimony
-- Proficiency in church management software (Shelby or similar), Microsoft Office Suite, email systems
+- Professional phone etiquette and customer service skills
+- Proficiency with office equipment and software including word processing, spreadsheets, email, graphic design tools, and church database systems
 - Excellent written and verbal communication skills in English
 - Strong organizational and multitasking abilities
-- Professional phone etiquette and customer service skills
 - Conversational Spanish proficiency preferred for member assistance
 
 ### Preferred
@@ -80,51 +79,14 @@ Serves as the primary administrative support for pastoral staff and church opera
 - Familiarity coordinating website and social media content and publication logistics
 - Bilingual proficiency in Spanish for enhanced member service
 
-## Physical Requirements and Working Conditions
+## Schedule & Work Environment
 
-- Primarily sedentary office work with occasional lifting up to 25 pounds
-- Extended periods at computer workstation
-- Regular interaction with church members, visitors, and staff
-- Occasional evening or weekend work for special events
-- Ability to maintain confidentiality of sensitive pastoral and membership information
+Monday–Friday core office hours (exact schedule to be mutually agreed); occasional evenings and weekends as needed for special events and congregational meetings.
 
-## Performance Expectations
+Primarily sedentary office work with occasional lifting up to 25 pounds. Extended periods at computer workstation. Regular interaction with church members, visitors, and staff. Ability to maintain confidentiality of sensitive pastoral and membership information.
 
-- Maintain membership database accuracy rate of 98% or higher
-- Respond to phone calls and visitor inquiries within one business day
-- Process new member information within 48 hours of decision
-- Maintain professional, Christ-like demeanor in all interactions
-- Support staff meetings and church events as scheduled
+## Employment Information
 
-## Schedule Information
+Compensation, benefits, general employment policies, and reasonable accommodations are detailed in the Employee Handbook.
 
-Monday–Friday – [8:00AM–5:00PM]  
-Occasional evenings and weekends as needed for special events and congregational meetings.
-
-## Reporting Relationships
-
-**Direct Reports:** None  
-**Key Internal Relationships:** All ministerial staff, Hispanic Pastor, Building Supervisor, committee chairs, ministry team leaders  
-**External Relationships:** Church members, visitors, vendors, community partners, denominational contacts
-
-## Compensation and Benefits
-
-Position salary and benefits package as determined by Personnel Committee and approved in annual church budget.
-
-## Employment Conditions
-
-- Position continues until terminated by mutual agreement or by request of Pastor or Personnel Committee
-- Two weeks' notice required for resignation unless otherwise mutually agreed
-- Subject to successful completion of criminal background check, financial background check, and drug screening
-- Compliance with all established church policies and procedures required
-- Ensure at least one trained backup for primary administrative duties and participate in quarterly handover drills to verify continuity
-
-**Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core duties (reception/phone coverage, membership database updates, sample report generation, and calendar or scheduling tasks) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
-
-- Regular attendance at staff meetings as requested
-- At-will employment relationship
-
-!!! info "Reasonable Accommodations"
-    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
-
-*First Baptist Church of Corsicana*
+This position continues until terminated by mutual agreement or by request of the Pastor, supervising minister, or Personnel Committee. Two weeks' notice is requested for resignation unless otherwise mutually agreed. Subject to successful completion of required background checks and screenings. Compliance with all established church policies and procedures is required. At-will employment relationship.

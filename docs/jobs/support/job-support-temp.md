@@ -34,8 +34,9 @@ Provides temporary reception and administrative support services when regular su
 
 ### Required
 
-- Pleasant, professional demeanor with excellent customer service skills
-- Clear telephone communication abilities and basic computer literacy
+- Demonstrates personal salvation through faith in Jesus Christ with mature Christian testimony
+- Professional phone etiquette and customer service skills
+- Basic computer literacy
 - Reliable and punctual with ability to work independently
 - Professional appearance and conduct representing the church positively
 - Alert judgment to know when to handle situations independently versus when to defer to supervisor
@@ -47,45 +48,14 @@ Provides temporary reception and administrative support services when regular su
 - Basic knowledge of office equipment (phones, copiers, computers)
 - Flexible availability for varying work schedules
 
-## Physical Requirements and Working Conditions
-
-- Primarily sedentary work sitting at reception desk and answering phones
-- Occasional walking within church facility to deliver messages or assist visitors
-- Professional office environment with standard office equipment
-- Variable work schedule based on regular staff availability and church needs
-- No regular hours - called in as needed for substitute coverage
-
-## Performance Expectations
-
-- Maintain professional, welcoming demeanor with all church contacts
-- Handle routine inquiries efficiently and refer complex matters appropriately
-- Demonstrate reliability when called upon for substitute duties
-- Respond to on-call assignments within 2 hours of notification and be onsite within agreed response window
-- Preserve confidentiality of church information and member communications
-- Support smooth church office operations during regular staff absences
-
-## Schedule Information
+## Schedule & Work Environment
 
 Temporary / As-needed basis; schedule varies by staffing needs and is assigned on an on-call basis.
 
-## Reporting Relationships
-**Direct Reports:** None  
-**Key Internal Relationships:** Minister of Administration, Regular Support Staff, All Church Staff  
-**External Relationships:** Church Members, Visitors, Vendors, Community Contacts
+Primarily sedentary office work with occasional lifting up to 25 pounds. Extended periods at computer workstation. Regular interaction with church members, visitors, and staff. Ability to maintain confidentiality of sensitive pastoral and membership information.
 
-## Compensation and Benefits
-Hourly wage for actual hours worked as determined by Personnel Committee and approved in annual church budget.
+## Employment Information
 
-## Employment Conditions
+Compensation, benefits, general employment policies, and reasonable accommodations are detailed in the Employee Handbook.
 
-- Position continues until terminated by mutual agreement or by request of Pastor or Personnel Committee
-- Two weeks' notice required for resignation unless otherwise mutually agreed
-- Work schedule and hours as agreed upon with Minister of Music and Personnel Committee
-- Compliance with all established church policies and procedures required
-- Regular attendance at staff meetings as requested
-- At-will employment relationship
-
-!!! info "Reasonable Accommodations"
-    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
-
-*First Baptist Church of Corsicana*
+This position continues until terminated by mutual agreement or by request of the Pastor, supervising minister, or Personnel Committee. Two weeks' notice is requested for resignation unless otherwise mutually agreed. Subject to successful completion of required background checks and screenings. Compliance with all established church policies and procedures is required. At-will employment relationship.

@@ -1,5 +1,5 @@
 ---
-title: Media & Communications Assistant
+title: Media Assistant
 ---
 
 |                |                                    |
@@ -7,12 +7,12 @@ title: Media & Communications Assistant
 | **Department** | Support                            |
 | **Reports To** | Minister of Administration         |
 | **FLSA Status**| Non-Exempt                         |
-| **Employment** | Part-time (20-25 hours per week)   |
+| **Employment** | Part-time (16-24 hours per week)   |
 | **Date**       | December 17, 2025                  |
 
 ## Position Summary
 
-Creates bilingual digital and print graphics to support church communications and ministry activities. Coordinates content with ministerial staff (content owners) and the Church Secretary for publication logistics. Focuses on image and print production rather than social media management or website administration.
+Serves as an administrative assistant with primary responsibilities for creating bilingual digital and print graphics to support church communications and ministry activities. Coordinates content with ministerial staff for publication logistics.
 
 ## Essential Functions and Responsibilities
 
@@ -38,11 +38,11 @@ Creates bilingual digital and print graphics to support church communications an
 
 ### Worship Service Media Support and Administrative Duties (15% of time)
 
-- Prepare presentation slides for worship services as requested
 - Collaborate with ministerial staff on worship guide content and layout for both services
 - Provide backup reception coverage when primary receptionist is unavailable
 - Assist with general office duties and administrative tasks as assigned
 - Coordinate with external vendors for printing and advertising services
+- Provide administrative support to Hispanic Pastor and cross-support other ministers and staff as workload demands
 
 ## Qualifications
 
@@ -50,85 +50,26 @@ Creates bilingual digital and print graphics to support church communications an
 
 - High school diploma or equivalent; willingness and ability to learn on the job
 - Demonstrates personal salvation through faith in Jesus Christ with mature Christian testimony
-- Basic proficiency with graphic design or image-editing tools (training provided as needed)
+- Professional phone etiquette and customer service skills
+- Proficiency with office equipment and software including word processing, spreadsheets, email, graphic design tools, and church database systems
 - Strong written and verbal communication skills
 
 ### Preferred
 
-- Experience with graphic design software (Adobe Creative Suite or similar)
+- Church or non-profit communications experience
+- Experience with graphic design tools and desktop publishing
 - Prior experience in church or non-profit communications (helpful but not required)
+- Print production and bulk mailing experience
 - Bilingual proficiency in Spanish for enhanced member service
 
-### Preferred
+## Schedule & Work Environment
 
-- Church or non-profit communications experience
-- Photography and videography skills
-- Email marketing platform experience (MailChimp, Constant Contact, etc.)
-- Understanding of SEO and digital marketing principles
-- Print production and bulk mailing experience
-- PowerPoint and presentation software expertise
+Tuesday–Thursday. Flexible hours (evenings and weekends) required for event and worship coverage.
 
-## Physical Requirements and Working Conditions
+Primarily sedentary office work with occasional lifting up to 25 pounds. Extended periods at computer workstation. Regular interaction with church members, visitors, and staff. Ability to maintain confidentiality of sensitive pastoral and membership information.
 
-- Primarily computer-based work with extended periods at workstation
-- Occasional lifting of supplies and equipment up to 20 pounds
-- Travel to off-site events for photography and videography
-- Schedule: Tuesday, Wednesday, Thursday with flexibility for special events
-- Evening and weekend work occasionally required for event coverage
-- Creative workspace with access to specialized equipment and software
+## Employment Information
 
-## Performance Expectations
+Compensation, benefits, general employment policies, and reasonable accommodations are detailed in the Employee Handbook.
 
-- Ensure bilingual materials are accurate and culturally appropriate
-- Respond to media or content requests within 3 business days and prioritize urgent worship/service requests
-- Maintain an organized digital asset library with proper file naming and version control
-- Deliver final worship guide files (English to external printer; Spanish for in-house printing) by the production schedule and coordinate logistics with the Church Secretary
-- Support worship services and volunteer media teams without technical delays or issues; provide timely vendor or repair coordination as needed
-
-## Schedule Information
-
-Primary schedule: Tuesday–Thursday. Flexible hours (evenings and weekends) required for event and worship coverage.
-
-## Reporting Relationships
-
-**Direct Reports:** None  
-**Key Internal Relationships:** All ministerial staff, worship team, committee chairs, ministry leaders  
-**External Relationships:** Printing vendors, web hosting services, social media platforms, local media outlets
-
-## Compensation and Benefits
-
-Hourly wage and benefits eligibility as determined by Personnel Committee and approved in annual church budget.
-
-## Employment Conditions
-
-- Position continues until terminated by mutual agreement or by request of Pastor or Personnel Committee
-- Two weeks' notice required for resignation unless otherwise mutually agreed
-- Primary work schedule Tuesday-Thursday with flexibility for events and special projects
-- Subject to successful completion of background checks and drug screening
-- Compliance with all established church policies and procedures required
-- Regular attendance at staff meetings as requested
-
-**Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core media duties (publish a worship guide draft, prepare a bilingual slide deck for worship, and demonstrate playback/setup for a service) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
-
-- At-will employment relationship
-
-!!! info "Reasonable Accommodations"
-    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
-
-## Equipment and Technology Requirements
-
-- Software Proficiency: image-editing tools (rastor & vector), office documents, basic digital asset management
-- Hardware: Access to digital cameras, computer workstation, and printing equipment as needed
-- Technical Skills: Basic file management and export best practices for print and digital
-- Coordinate media purchases with the Church Secretary
-
-## Key Success Factors
-
-- Creative Excellence: Ability to produce visually appealing, professional-quality materials
-- Technical Competency: Stay current with evolving digital communication technologies
-- Ministry Focus: Understanding of how communications support evangelism and discipleship
-- Time Management: Ability to handle multiple projects with competing deadlines
-- Collaboration: Work effectively with diverse ministry teams and volunteer groups
-- Brand Consistency: Maintain cohesive visual identity across all church communications
-
-*First Baptist Church of Corsicana*
+This position continues until terminated by mutual agreement or by request of the Pastor, supervising minister, or Personnel Committee. Two weeks' notice is requested for resignation unless otherwise mutually agreed. Subject to successful completion of required background checks and screenings. Compliance with all established church policies and procedures is required. At-will employment relationship.

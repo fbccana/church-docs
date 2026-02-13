@@ -1,18 +1,18 @@
 ---
-title: Music/Worship Secretary
+title: Receptionist/Music Secretary
 ---
 
 |                |                                    |
 | -------------- | ---------------------------------- |
 | **Department** | Support                            |
-| **Reports To** | Minister of Music and Worship (Primary), Administrative Assistant |
+| **Reports To** | Minister of Music (Primary)        |
 | **FLSA Status**| Non-Exempt                         |
-| **Employment** | Full-time (or Part-time as budgeted) |
+| **Employment** | Full-time                          |
 | **Date**       | February 12, 2026                  |
 
 ## Position Summary
 
-Serves as the Music/Worship Secretary with primary responsibility for receptionist duties, including greeting office guests and answering phones, while providing essential administrative, organizational, and logistical support to the church’s worship and music ministries. This role helps maintain an excellent first impression for visitors and ensures smooth operation of choirs, orchestra, rehearsals, and special worship services in alignment with the mission and vision of First Baptist Church.
+Serves as an administrative assistant with primary responsibility for receptionist duties, including greeting office guests and answering phones, while providing essential administrative, organizational, and logistical support to the church’s worship and music ministries. This role helps maintain an excellent first impression for visitors and ensures smooth operation of music and worship services in alignment with the mission and vision of First Baptist Church.
 
 ## Essential Functions and Responsibilities
 
@@ -20,39 +20,37 @@ Serves as the Music/Worship Secretary with primary responsibility for receptioni
 
 - Act as the primary phone receptionist, answering calls professionally and directing them to the appropriate staff member
 - Greet office guests warmly, offering assistance and hospitality; help with copies, general information, or directing visitors to the right person
-- Provide secretarial support to ministers and other staff when they have urgent needs
+- Provide administrative support to Minister of Music and cross-support other ministers and staff as workload demands
 - Assist fellow secretaries during busy periods or special projects
-- Maintain lists of attendees for special events (Feast ‘n Praise, major church fellowships, weekly Wednesday Night Supper, etc.) and coordinate with the church hostess
+- Maintain lists of attendees for special events and coordinate with the church hostess
 
 ### Music and Worship Administration (40% of time)
 
-- Prepare rehearsal music and Sunday service folders for the Sanctuary Choir, orchestra, and other ensembles (including copying new or additional music as needed)
-- Set up rehearsal spaces for orchestra and choir practices (chairs, stands, etc.)
-- Check and maintain choir robes, stoles, and choir rooms for cleanliness and order
+- Prepare rehearsal music and Sunday service folders for choirs, orchestra, and other ensembles
+- Set up rehearsal spaces for orchestra and choir practices
 - Straighten and organize any music left around the facility
-- Maintain accurate attendance and enrollment records for all choirs; provide weekly absence reports to the Minister of Music and prepare monthly attendance summaries for church conference
+- Maintain attendance and enrollment records for all choirs and prepare monthly attendance summaries for church conference
 - Manage the music library: inventory, record, file, and organize all music
-- Provide recordings in the sound booth for worship services and make duplicate copies (digital or physical) when requested by church members
 - Order musical supplies and products as directed
 - Maintain flower dedication lists and contact scheduled participants
-- Support the Lord’s Supper and Baptism ministry teams with preparation and coordination
-- Assist ministers with planning and execution of major worship services and special events (e.g., Christmas Eve programs)
-- Provide needed music and supplies to children’s and youth choirs (e.g., Solid Rocker)
+- Assist ministers with planning and execution of major worship services and special events
+- Provide needed music and supplies to choirs
+- Prepare presentation slides for worship services as requested
 
 ### General Administrative Support (20% of time)
 
 - Participate in church staff meetings as requested
 - Provide cross-training and backup support for other administrative roles as needed
-- Assist with general office tasks and special projects assigned by the Minister of Music or Administrative Assistant
-- Help maintain overall office organization and support church-wide administrative needs
+- Assist with general office tasks and special projects assigned by the ministerial staff
 
 ## Qualifications
 
 ### Required
 
-- Demonstrates personal salvation through faith in Jesus Christ with a mature Christian testimony
 - Minimum 2 years of administrative or secretarial experience
-- Proficiency with office machinery, Microsoft Office Suite, email systems, and basic church management software
+- Demonstrates personal salvation through faith in Jesus Christ with mature Christian testimony
+- Professional phone etiquette and customer service skills
+- Proficiency with office equipment and software including word processing, spreadsheets, email, graphic design tools, and church database systems
 - Excellent organizational, multitasking, and communication skills
 - Professional phone etiquette and warm, hospitable customer service orientation
 - Ability to maintain confidentiality of sensitive information
@@ -63,51 +61,14 @@ Serves as the Music/Worship Secretary with primary responsibility for receptioni
 - Familiarity with choir operations, music library systems, or worship planning
 - Experience copying/organizing printed music or working with volunteers
 - Notary Public certification (or willingness to obtain)
-- Conversational Spanish skills (helpful for receptionist duties)
+- Conversational Spanish skills
 
-## Physical Requirements and Working Conditions
+## Schedule & Work Environment
 
-- Primarily sedentary office work with occasional movement throughout the church facility
-- Occasional lifting and carrying up to 25–30 pounds (music folders, chairs, stands, supplies)
-- Extended periods at a computer workstation and phone
-- Regular interaction with church members, visitors, choir volunteers, and staff
-- Occasional evening or weekend work for rehearsals and special worship services
-- Ability to maintain confidentiality of pastoral and membership information
+Monday–Friday core office hours (exact schedule to be mutually agreed); regular Wednesday evenings for rehearsals; occasional additional evenings or weekends for special services. Primarily sedentary office work with occasional lifting up to 25 pounds and movement throughout facility. Regular interaction with church members, visitors, volunteers, and staff.
 
-## Performance Expectations
+## Employment Information
 
-- Deliver professional, Christ-like hospitality in all guest and phone interactions
-- Maintain high accuracy in music preparation, attendance records, and music library organization
-- Respond to phone calls and visitor needs promptly and courteously
-- Complete rehearsal and Sunday service music preparation on schedule
-- Support smooth execution of major worship services and events
+Compensation, benefits, general employment policies, and reasonable accommodations are detailed in the Employee Handbook.
 
-## Schedule Information
-
-Monday–Friday core office hours (exact schedule to be mutually agreed)  
-Regular Wednesday evening availability for choir/orchestra rehearsals  
-Occasional additional evenings or weekends for special worship services and events
-
-## Reporting Relationships
-
-**Direct Reports:** None  
-**Key Internal Relationships:** Minister of Music, choir directors and volunteers, pastoral staff, Administrative Assistant, ministry team leaders  
-**External Relationships:** Church members, visitors, musicians, vendors, and denominational contacts
-
-## Compensation and Benefits
-
-Position salary and benefits package as determined by the Personnel Committee and approved in the annual church budget.
-
-## Employment Conditions
-
-- Position continues until terminated by mutual agreement or by request of the Minister of Music, Pastor, or Personnel Committee
-- Two weeks’ notice required for resignation unless otherwise mutually agreed
-- Subject to successful completion of criminal background check and any other required screenings
-- Compliance with all established church policies and procedures required
-- Regular attendance at staff meetings as requested
-- At-will employment relationship
-
-!!! info "Reasonable Accommodations"
-    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
-
-*First Baptist Church of Corsicana*
+This position continues until terminated by mutual agreement or by request of the Pastor, supervising minister, or Personnel Committee. Two weeks' notice is requested for resignation unless otherwise mutually agreed. Subject to successful completion of required background checks and screenings. Compliance with all established church policies and procedures is required. At-will employment relationship.

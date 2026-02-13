@@ -61,14 +61,6 @@ Concise paragraph describing the purpose of the position and its primary contrib
 **Key Internal Relationships:**  
 **External Relationships:**  
 
-## RACI Chart
-
-- Use a **Matrix / Collaborative RACI** for clarity (joint responsibilities where appropriate). Example table:
-
-| Activity | Responsible | Accountable | Consulted | Informed |
-| :--- | :--- | :--- | :--- | :--- |
-| Example Activity | Role A / Role B (joint) | Minister of Administration | Committee Chairs | Church Body |
-
 ## Quarterly Handover Drill
 
 - Include a brief drill statement and link to the canonical continuity template: see `docs/internal/continuity.md`. Example text: "The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core duties while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration."
@@ -89,9 +81,6 @@ Compensation and benefits as determined by the Personnel Committee and approved 
 
 - (Employment status, notice periods, background checks, confidentiality and compliance clauses.)
 
+## Reasonable Accommodations
 
-!!! info "Reasonable Accommodations"
-    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
-
-
-*First Baptist Church of Corsicana*
+First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.

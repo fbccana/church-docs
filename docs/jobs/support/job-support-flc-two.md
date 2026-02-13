@@ -1,5 +1,5 @@
 ---
-title: Family Life Center Receptionist (Two)
+title: Family Life Center Assistant (Two)
 ---
 
 |                |                        |
@@ -12,7 +12,7 @@ title: Family Life Center Receptionist (Two)
 
 ## Position Summary
 
-Oversees daily operations of the Family Life Center, providing excellent customer service to members and guests while maintaining facility cleanliness, equipment functionality, and safety standards to support the church's community outreach ministry.
+Serves as an administrative assistant with primary responsibilities for overseeing daily operations of the Family Life Center, providing excellent customer service to members and guests while maintaining facility cleanliness, equipment functionality, and safety standards to support the church's community outreach ministry.
 
 ## Essential Functions and Responsibilities
 
@@ -51,6 +51,7 @@ Oversees daily operations of the Family Life Center, providing excellent custome
 
 - High school diploma or equivalent
 - Demonstrates personal salvation through faith in Jesus Christ with mature Christian testimony
+- Professional phone etiquette and customer service skills
 - Strong customer service skills and professional demeanor
 - Basic computer proficiency including check-in systems and calendar software
 - Excellent communication skills, both verbal and written
@@ -65,53 +66,12 @@ Oversees daily operations of the Family Life Center, providing excellent custome
 - Basic understanding of cleaning and sanitization procedures
 - Conflict resolution and problem-solving skills
 
-## Physical Requirements and Working Conditions
+## Schedule & Work Environment
 
-- Ability to stand and walk for extended periods throughout the facility
-- Lifting and moving supplies and equipment up to 25 pounds
-- Bending, reaching, and cleaning activities throughout the shift
-- Work in various facility environments (gym, weight room, office areas)
-- Exposure to cleaning chemicals and sanitizing products
-- Interaction with diverse community members and facility users
+Tuesday, Thursday - 8:00 AM–5:00 PM; occasional additional evenings or weekends for special services. Primarily sedentary office work with occasional lifting up to 50 pounds and movement throughout facility. Regular interaction with church members, visitors, volunteers, and staff.
 
-## Performance Expectations
+## Employment Information
 
-- Maintain facility opening schedule with 100% reliability
-- Complete equipment sanitization protocols consistently throughout shift
-- Achieve positive customer service feedback from facility users
-- Accurately process all member check-ins without errors
-- Maintain supply inventory levels to prevent shortages
-- Report maintenance issues within 24 hours of identification
+Compensation, benefits, general employment policies, and reasonable accommodations are detailed in the Employee Handbook.
 
-## Schedule Information
-
-Position A: Monday, Wednesday, Friday – [8:00AM–5:00PM]  
-Position B: Tuesday, Thursday - [8:00AM–5:00PM]  
-Both positions perform identical duties and responsibilities
-
-## Reporting Relationships
-
-**Direct Reports:** None  
-**Key Internal Relationships:** Minister of Administration, custodial staff, support staff  
-**External Relationships:** Church members, community facility users, various vendors
-
-## Compensation and Benefits
-
-Hourly wage funded through designated support staff budget as determined by church leadership and approved in annual budget.
-
-## Employment Conditions
-
-- Position continues until terminated by mutual agreement or by request of Minister Administration
-- Two weeks' notice required for resignation unless otherwise mutually agreed
-- Work schedule and hours as agreed upon with Minister of Community Outreach
-- Compliance with all established church policies, safety procedures, and FLC guidelines required
-- Reliable attendance essential due to facility security and member service requirements
-
-**Quarterly Handover Drill:** The primary and backup will conduct a scheduled 60–90 minute drill each quarter during which the backup performs core FLC duties (facility opening/closing checklist, equipment sanitization, visitor check-in and access control, and process a sample facility reservation) while the primary observes; success criteria include completing ≥80% of tasks unaided, documenting any gaps, updating the runbook or SOPs as needed, and obtaining sign-off from the Minister of Administration.
-
-- At-will employment relationship
-
-!!! info "Reasonable Accommodations"
-    First Baptist Church will make reasonable accommodations to enable qualified individuals with disabilities to perform essential functions of this position.
-
-*First Baptist Church of Corsicana*
+This position continues until terminated by mutual agreement or by request of the Pastor, supervising minister, or Personnel Committee. Two weeks' notice is requested for resignation unless otherwise mutually agreed. Subject to successful completion of required background checks and screenings. Compliance with all established church policies and procedures is required. At-will employment relationship.
