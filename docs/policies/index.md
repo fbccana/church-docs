@@ -29,6 +29,7 @@ All policies must be consistent with the Constitution and Bylaws.
 
 - [Employee Handbook (Old)](46059408_2_Employee Handbook.md)
 - [FBC Employee Handbook](fbc-employee-handbook.md)
+- [Revised Employee Handbook (Draft)](fbc-employee-handbook-revised.md)
 
 ## Common Policy Areas
 
