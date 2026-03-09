@@ -19,6 +19,12 @@ nav:
   - Bylaws: bylaws/index.md
   - Constitution: constitution/index.md
   - Policies: policies/index.md
+  - Teams:
+    - Guidelines: teams/committee-guidelines.md
+    - Missions:
+      - Recommendations (March 2026): teams/missions/recommendation-missions-260315.md
+    - Safety:
+      - Emergency SOP: teams/safety/emergency-sop.md
   - Jobs:
     - Overview: jobs/index.md
     - Organizational Chart: jobs/org-chart.md
