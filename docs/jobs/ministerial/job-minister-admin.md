@@ -36,7 +36,7 @@ The Minister of Administration develops and implements an overall Administration
 
 ### Supervisory Responsibilities (30% of time)
 
--   Supervise the Building Supervisor.
+-   Supervise the Facilities Manager and custodial staff.
 -   Supervise paid nursery workers in conjunction with the Children's Minister.
 -   Oversee the operation of the kitchen and all employees necessary for its functions.
 
