@@ -56,3 +56,6 @@ nav:
       - Media: jobs/support/job-support-media.md
       - Temp: jobs/support/job-support-temp.md
     - Template: jobs/job-template.md
+  - Procedures:
+    - Overview: procedures/index.md
+    - Name Tags (Mail Merge): procedures/nametags-mailmerge.md
