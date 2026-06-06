@@ -63,7 +63,7 @@ From the menu bar, choose **Tools → Mail Merge Wizard**. The Mail Merge Wizard
 
 On the right side, select **Use the current document**.
 
-Before clicking Next, you must register your data file. Below the radio buttons, click the **Exchange Databases…** button. This opens the Exchange Databases dialog.
+Before clicking Next, you must register your data file. Below the **Use the current document** radio button, click the **Exchange Databases…** button. This opens the Exchange Databases dialog.
 
 #### Registering your data file
 
@@ -104,23 +104,12 @@ Clicking Finish closes the wizard and returns you to your document. The **Mail M
 
 From the menu bar, choose **Format → Page Style** (or press **Alt+Shift+P**). Set your margins to zero or near-zero on all sides. You will control name tag padding through the table settings in the next step, so minimal page margins give you the most usable space.
 
-### Mock up your label first
-
-Before inserting any merge fields, type sample text in the first cell to mock up the layout. Use real-looking names and text so you can judge how the content actually fits. This is important because merge field placeholders (`<FirstName>`) are long and will appear to overflow the cell — they will not reflect actual name lengths.
-
-Use LibreOffice's built-in heading styles to create a natural size hierarchy:
-
-- **Heading 1** — primary line (e.g., first name or full name)
-- **Heading 2** — secondary line (e.g., group or class)
-- **Heading 3** — additional lines as needed
-
-Using styles means you can adjust font sizes globally with a single style edit rather than reformatting each cell individually.
-
-Work with the mock-up until the layout looks right. Then replace the sample text with merge fields (or insert the fields and apply the same styles to them).
-
 ### Insert a table
 
-From the menu bar, choose **Table → Insert Table**. For a portrait letter page, a good starting point is **2 columns × 3 rows**, giving you 6 name tags per sheet.
+From the menu bar, choose **Table → Insert Table**. Either of these layouts gives you 6 name tags per sheet:
+
+- **Portrait** — 2 columns × 3 rows
+- **Landscape** — 3 columns × 2 rows
 
 ### Set table properties
 
@@ -151,6 +140,41 @@ For a 3-row table on an 11" page, the mathematical maximum is about 3.67" per ro
 
 !!! warning "Row height and blank pages"
     If your row height pushes the table even slightly past the bottom of the page, LibreOffice will add a blank overflow page. In the final merged document, that blank page will appear between every page of name tags — a significant problem. Stay at 3.5" or less for a 3-row portrait layout.
+
+### Mock up your label
+
+Before inserting merge fields, type sample text inside the first cell to mock up the layout. Use real-looking names and text so you can judge how the content actually fits.
+
+!!! tip "Why mock up first"
+    Merge field placeholders like `<FirstName>` are long and will appear to overflow the cell — they do not reflect actual name lengths. A mock-up with real text lets you dial in font sizes before the fields go in.
+
+Use LibreOffice's built-in heading styles to create a natural size hierarchy:
+
+- **Heading 1** — primary line (e.g., first name or full name)
+- **Heading 2** — secondary line (e.g., group or class)
+- **Heading 3** — additional lines as needed
+
+Using styles means you can adjust font sizes globally with a single style edit rather than reformatting each cell individually.
+
+!!! warning "Apply styles from bottom to top"
+    As you apply heading styles, the larger font sizes will push lines out of the visible cell area. If you apply styles top to bottom, you will lose sight of the lines you haven't styled yet. Work from the **last line upward** so each styled line pushes content you have already handled, and everything remains visible as you go.
+
+Work with the mock-up until the layout looks right. If the sizing is off after you run a test merge, you can adjust individual styles at that point.
+
+### Add a background image (optional)
+
+If you want an image behind the text — a logo, watermark, or decorative graphic — insert it inside the cell before adding merge fields. A transparent PNG works best.
+
+1. Click inside the cell where you want the image.
+2. From the menu bar, choose **Insert → Image** and select your PNG file.
+3. With the image selected, open Image Properties: **Format → Image → Properties** (or press **F4**).
+4. On the **Wrap** tab:
+   - Under **Settings**, select **Through**. This allows text to print across the image.
+   - Under **Options**, check **In background**. This places the image behind the text layer.
+   - Under **Options**, **Allow overlap** is typically checked by default — leave it as is.
+6. Resize and position the image within the cell as needed.
+
+Then replace the sample text with merge fields, or insert the fields alongside the sample text and apply the same styles to them.
 
 ---
 
