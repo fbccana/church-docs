@@ -1,5 +1,6 @@
 # Ignore build objects
 GEMINI.md
+.claude/
 
 # Protect specific files
 !LICENSE

@@ -55,27 +55,18 @@ By the end of this guide you will have a document ready to print — one name ta
 
    > If you are using a different brand or size, find the matching entry in the dropdowns. The dimensions shown on the right side of the dialog should match your label sheet packaging.
 
-### Insert Merge Fields
-
-You will now tell LibreOffice what to print on each label.
-
-1. In the **Inscription** box (the large text area on the left), click to place your cursor.
-2. From the **Database** dropdown at the top of the dialog, you will connect your spreadsheet in the next step. For now, leave this area blank and continue to Step 3.
+4. Leave the **Inscription** box blank for now — you will insert merge fields in Step 3.
+5. Click **New Document**. LibreOffice will generate a blank label sheet and open it as a new Writer document.
 
 ---
 
-## Step 3 — Register Your Spreadsheet as a Data Source
+## Step 3 — Connect Your Spreadsheet and Insert Merge Fields
 
-LibreOffice needs to know about your spreadsheet before you can pull names from it.
+With the blank label sheet open, you will now connect your spreadsheet and tell LibreOffice what to print on each label.
 
-1. From the menu bar, choose **Tools → Macros** — wait, use this path instead:
-   **Tools → Address Book Source** — actually the correct path is:
+1. From the menu bar, choose **Tools → Mail Merge Wizard**.
 
-   **Tools → Mail Merge Wizard**
-
-   > This is the most reliable method for first-time use.
-
-2. The **Mail Merge Wizard** will open. Work through the steps:
+   The **Mail Merge Wizard** will open.
 
 ### Wizard Step 1 — Starting Document
 
@@ -117,7 +108,7 @@ LibreOffice needs to know about your spreadsheet before you can pull names from 
   <Group>
   ```
 
-- From the menu bar, choose **Format → Synchronize Labels** (or look for a **Synchronize Labels** button in the toolbar). This copies your field layout to all the other labels on the sheet.
+- From the menu bar, choose **Format → Synchronize Labels** (or click the **Synchronize Labels** button in the toolbar). This copies your field layout to all the other labels on the sheet.
 - Click **Return to Mail Merge Wizard** in the toolbar.
 
 ### Wizard Step 7 — Personalize Documents
